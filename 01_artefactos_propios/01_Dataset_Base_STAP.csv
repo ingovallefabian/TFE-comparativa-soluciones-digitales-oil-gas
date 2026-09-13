@@ -1,0 +1,763 @@
+id_actividad,disciplina,descripcion,unidad,cantidad_planificada,cantidad_ejecutada,peso_presupuesto_usd,avance_planificado_pct,costo_real_usd
+STAP-CIV-001,Civil,Formaleta y encofrado — Área 100 (Recepción),m2,1017,984,22598,1.0,21822
+STAP-CIV-002,Civil,Relleno y compactación — Área 300 (Tratamiento),m3,8227,8046,72809,1.0,79489
+STAP-CIV-003,Civil,Drenajes y obras hidráulicas — Área 200 (Separación),m,537,426,27059,0.9,23256
+STAP-CIV-004,Civil,Movimiento de tierras - excavación — Área 100 (Recepción),m3,3408,2796,23277,0.9,18386
+STAP-CIV-005,Civil,Concreto para pedestales de equipos — Área 100 (Recepción),m3,63,67,20251,1.0,17941
+STAP-CIV-006,Civil,Drenajes y obras hidráulicas — Área 600 (Servicios),m,807,687,41415,0.93,39342
+STAP-CIV-007,Civil,Drenajes y obras hidráulicas — Área 400 (Bombeo),m,553,482,23309,1.0,21862
+STAP-CIV-008,Civil,Movimiento de tierras - excavación — Área 200 (Separación),m3,5622,4385,28953,0.92,24135
+STAP-CIV-009,Civil,Acero de refuerzo — Área 100 (Recepción),kg,35468,27268,47882,0.89,39446
+STAP-CIV-010,Civil,Drenajes y obras hidráulicas — Área 600 (Servicios),m,1563,1489,65224,1.0,64127
+STAP-CIV-011,Civil,Concreto para cimentación — Área 600 (Servicios),m3,255,220,76520,0.96,67110
+STAP-CIV-012,Civil,Concreto para pedestales de equipos — Área 600 (Servicios),m3,135,127,36570,1.0,36588
+STAP-CIV-013,Civil,Relleno y compactación — Área 200 (Separación),m3,6123,5431,39738,0.97,38540
+STAP-CIV-014,Civil,Pavimento rígido y vías internas — Área 300 (Tratamiento),m2,3386,2687,159210,0.92,141293
+STAP-CIV-015,Civil,Pavimento rígido y vías internas — Área 300 (Tratamiento),m2,2998,2488,162791,0.93,152165
+STAP-CIV-016,Civil,Acero de refuerzo — Área 600 (Servicios),kg,24280,23123,44432,1.0,42192
+STAP-CIV-017,Civil,Concreto para pedestales de equipos — Área 500 (Inyección),m3,60,45,19442,0.93,14322
+STAP-CIV-018,Civil,Pavimento rígido y vías internas — Área 300 (Tratamiento),m2,2006,1696,101704,1.0,93617
+STAP-CIV-019,Civil,Drenajes y obras hidráulicas — Área 400 (Bombeo),m,599,481,18437,0.89,15595
+STAP-CIV-020,Civil,Concreto para cimentación — Área 400 (Bombeo),m3,500,469,126100,1.0,111896
+STAP-CIV-021,Civil,Estructura metálica de soporte — Área 100 (Recepción),kg,8569,7657,26135,0.99,22320
+STAP-CIV-022,Civil,Diques y muros de contención — Área 300 (Tratamiento),m3,706,651,193211,1.0,181164
+STAP-CIV-023,Civil,Formaleta y encofrado — Área 500 (Inyección),m2,1834,1738,45300,1.0,46766
+STAP-CIV-024,Civil,Pavimento rígido y vías internas — Área 300 (Tratamiento),m2,881,681,46473,0.96,35338
+STAP-CIV-025,Civil,Pavimento rígido y vías internas — Área 100 (Recepción),m2,3455,2923,170953,0.99,142442
+STAP-CIV-026,Civil,Acero de refuerzo — Área 600 (Servicios),kg,50410,43250,84185,0.95,80759
+STAP-CIV-027,Civil,Pavimento rígido y vías internas — Área 600 (Servicios),m2,1765,1683,89062,1.0,96081
+STAP-CIV-028,Civil,Formaleta y encofrado — Área 300 (Tratamiento),m2,492,385,14258,0.89,12528
+STAP-CIV-029,Civil,Concreto para cimentación — Área 100 (Recepción),m3,775,729,192440,1.0,179002
+STAP-CIV-030,Civil,Concreto para pedestales de equipos — Área 200 (Separación),m^3,113,112,31012,1.0,30718
+STAP-CIV-031,Civil,Estructura metálica de soporte — Área 400 (Bombeo),kg,31621,27588,94863,0.92,91522
+STAP-CIV-032,Civil,Relleno y compactación — Área 500 (Inyección),m3,2862,2812,24098,1.0,22679
+STAP-CIV-033,Civil,Acero de refuerzo — Área 500 (Inyección),kg,16973,16668,31400,1.0,30107
+STAP-CIV-034,Civil,Acero de refuerzo — Área 300 (Tratamiento),kg,54294,47885,84156,1.0,83408
+STAP-CIV-035,Civil,Estructura metálica de soporte — Área 200 (Separación),kg,21122,18212,45412,1.0,39496
+STAP-CIV-036,Civil,Concreto para cimentación — Área 100 (Recepción),m3,387,312,119448,0.87,103236
+STAP-CIV-037,Civil,Pavimento rígido y vías internas — Área 300 (Tratamiento),m2,3013,2992,122117,1.0,130959
+STAP-CIV-038,Civil,Movimiento de tierras - excavación — Área 300 (Tratamiento),m3,4386,3409,29693,0.95,25526
+STAP-CIV-039,Civil,Drenajes y obras hidráulicas — Área 600 (Servicios),m,1605,1485,82593,1.0,74789
+STAP-CIV-040,Civil,Diques y muros de contención — Área 600 (Servicios),m3,752,732,194565,1.0,183459
+STAP-CIV-041,Civil,Movimiento de tierras - excavación — Área 600 (Servicios),m3,9481,8952,83907,0.98,89510
+STAP-CIV-042,Civil,Diques y muros de contención — Área 400 (Bombeo),m3,521,407,119882,0.91,98703
+STAP-CIV-043,Civil,Relleno y compactación — Área 100 (Recepción),m3,5444,4134,50793,0.91,42423
+STAP-CIV-044,Civil,Concreto para pedestales de equipos — Área 400 (Bombeo),m3,57,56,21076,1.0,22771
+STAP-CIV-045,Civil,Concreto para cimentación — Área 100 (Recepción),m3,262,238,71568,1.0,61893
+STAP-CIV-046,Civil,Relleno y compactación — Área 500 (Inyección),m3,1501,1290,13509,1.0,11633
+STAP-CIV-047,Civil,Relleno y compactación — Área 100 (Recepción),m3,4478,3470,41332,0.86,33183
+STAP-CIV-048,Civil,Concreto para pedestales de equipos — Área 600 (Servicios),m3,197,194,59486,1.0,59044
+STAP-CIV-049,Civil,Acero de refuerzo — Área 400 (Bombeo),kg,30766,24549,51995,0.88,40851
+STAP-CIV-050,Civil,Relleno y compactación — Área 400 (Bombeo),m3,2444,2316,25418,0.99,23729
+STAP-CIV-051,Civil,Pavimento rígido y vías internas — Área 200 (Separación),m2,2581,2283,110828,1.0,104437
+STAP-CIV-052,Civil,Relleno y compactación — Área 300 (Tratamiento),m3,7641,6263,60287,0.91,48226
+STAP-CIV-053,Civil,Pavimento rígido y vías internas — Área 500 (Inyección),m2,3994,3834,199700,1.0,217256
+STAP-CIV-054,Civil,Movimiento de tierras - excavación — Área 500 (Inyección),m3,5362,4727,48633,1.0,43891
+STAP-CIV-055,Civil,Formaleta y encofrado — Área 100 (Recepción),m2,1000,757,25880,0.86,20812
+STAP-CIV-056,Civil,Diques y muros de contención — Área 100 (Recepción),m3,425,388,125281,0.96,116957
+STAP-CIV-057,Civil,Acero de refuerzo — Área 200 (Separación),kg,41973,33517,63379,0.98,53600
+STAP-CIV-058,Civil,Formaleta y encofrado — Área 500 (Inyección),m2,1312,1196,31396,0.96,27871
+STAP-CIV-059,Civil,Formaleta y encofrado — Área 200 (Separación),m2,1313,1060,32733,0.92,30019
+STAP-CIV-060,Civil,Concreto para pedestales de equipos — Área 200 (Separación),m3,142,120,48632,0.96,40340
+STAP-CIV-061,Civil,Concreto para pedestales de equipos — Área 600 (Servicios),m3,172,159,54171,1.0,54255
+STAP-CIV-062,Civil,Movimiento de tierras - excavación — Área 400 (Bombeo),m3,2457,2065,20590,0.94,18377
+STAP-CIV-063,Civil,Acero de refuerzo — Área 300 (Tratamiento),kg,20690,15552,36208,0.84,30434
+STAP-CIV-064,Civil,Pavimento rígido y vías internas — Área 300 (Tratamiento),m2,3911,3760,213345,1.0,225633
+STAP-CIV-065,Civil,Formaleta y encofrado — Área 200 (Separación),m2,729,637,14631,0.95,14424
+STAP-CIV-066,Civil,Pavimento rígido y vías internas — Área 400 (Bombeo),m2,1405,1323,61005,1.0,55596
+STAP-CIV-067,Civil,Drenajes y obras hidráulicas — Área 600 (Servicios),m,307,266,12197,0.95,11049
+STAP-CIV-068,Civil,Formaleta y encofrado — Área 100 (Recepción),m2,747,726,20669,1.0,21355
+STAP-CIV-069,Civil,Estructura metálica de soporte — Área 200 (Separación),kg,19062,17268,47846,1.0,48614
+STAP-CIV-070,Civil,Estructura metálica de soporte — Área 600 (Servicios),kg,27791,27072,57805,1.0,62432
+STAP-CIV-071,Civil,Estructura metálica de soporte — Área 100 (Recepción),kg,36353,35539,88338,1.0,89730
+STAP-CIV-072,Civil,Concreto para cimentación — Área 100 (Recepción),m3,324,291,112085,1.0,109653
+STAP-CIV-073,Civil,Concreto para cimentación — Área 600 (Servicios),m3,754,576,253419,0.81,217615
+STAP-CIV-074,Civil,Concreto para cimentación — Área 400 (Bombeo),m3,776,698,254039,1.0,228635
+STAP-CIV-075,Civil,Formaleta y encofrado — Área 200 (Separación),m2,1038,963,25047,1.0,25146
+STAP-CIV-076,Civil,Movimiento de tierras - excavación — Área 600 (Servicios),m3,2233,1926,18802,1.0,15517
+STAP-CIV-077,Civil,Relleno y compactación — Área 200 (Separación),m3,5813,4816,57549,0.89,45510
+STAP-CIV-078,Civil,Estructura metálica de soporte — Área 200 (Separación),kg,18766,14447,54421,0.84,43041
+STAP-CIV-079,Civil,Movimiento de tierras - excavación — Área 500 (Inyección),m3,6126,4887,36021,0.94,28179
+STAP-CIV-080,Civil,Concreto para pedestales de equipos — Área 500 (Inyección),m3,190,167,56308,0.99,49807
+STAP-CIV-081,Civil,Estructura metálica de soporte — Área 600 (Servicios),kg,14590,12080,29909,0.98,24848
+STAP-CIV-082,Civil,Formaleta y encofrado — Área 500 (Inyección),m2,2276,2184,58129,1.0,60679
+STAP-CIV-083,Civil,Estructura metálica de soporte — Área 200 (Separación),kg,38876,33457,82806,0.92,70147
+STAP-CIV-084,Civil,Diques y muros de contención — Área 400 (Bombeo),m3,642,494,120580,0.82,89264
+STAP-CIV-085,Civil,Concreto para cimentación — Área 200 (Separación),m3,773,661,182196,1.0,154473
+STAP-CIV-086,Civil,Concreto para cimentación — Área 600 (Servicios),m3,294,262,84681,1.0,78801
+STAP-CIV-087,Civil,Relleno y compactación — Área 600 (Servicios),m3,6058,5119,39377,1.0,36917
+STAP-CIV-088,Civil,Diques y muros de contención — Área 100 (Recepción),m3,663,548,164179,1.0,129168
+STAP-CIV-089,Civil,Diques y muros de contención — Área 300 (Tratamiento),m3,178,137,37991,0.92,29538
+STAP-CIV-090,Civil,Movimiento de tierras - excavación — Área 400 (Bombeo),m3,14652,11706,78828,0.93,63578
+STAP-CIV-091,Civil,Diques y muros de contención — Área 100 (Recepción),m3,148,128,40024,0.96,38041
+STAP-CIV-092,Civil,Pavimento rígido y vías internas — Área 500 (Inyección),m2,1933,1806,93789,1.0,83402
+STAP-CIV-093,Civil,Drenajes y obras hidráulicas — Área 300 (Tratamiento),m,2397,2176,78622,0.99,76648
+STAP-CIV-094,Civil,Pavimento rígido y vías internas — Área 400 (Bombeo),m2,2681,2430,126141,1.0,120303
+STAP-CIV-095,Civil,Diques y muros de contención — Área 300 (Tratamiento),m3,373,315,98345,0.96,88212
+STAP-CIV-096,Civil,Diques y muros de contención — Área 200 (Separación),m3,327,311,91347,1.0,82512
+STAP-CIV-097,Civil,Estructura metálica de soporte — Área 300 (Tratamiento),kg,13970,11158,33807,0.85,30119
+STAP-CIV-098,Civil,Relleno y compactación — Área 100 (Recepción),m3,6998,6308,51645,1.0,44938
+STAP-CIV-099,Civil,Concreto para pedestales de equipos — Área 100 (Recepción),m3,211,176,61985,1.0,51942
+STAP-CIV-100,Civil,Concreto para cimentación — Área 300 (Tratamiento),m3,883,672,271055,0.92,208097
+STAP-CIV-101,Civil,Concreto para cimentación — Área 400 (Bombeo),m3,409,377,136463,1.0,126029
+STAP-CIV-102,Civil,Concreto para pedestales de equipos — Área 400 (Bombeo),m3,64,53,19482,0.98,15922
+STAP-CIV-103,Civil,Concreto para cimentación — Área 200 (Separación),m3,833,749,273249,1.0,271317
+STAP-CIV-104,Civil,Estructura metálica de soporte — Área 400 (Bombeo),kg,39790,39258,96690,1.0,106888
+STAP-CIV-105,Civil,Concreto para pedestales de equipos — Área 600 (Servicios),m3,131,100,38714,0.94,33122
+STAP-CIV-106,Civil,Formaleta y encofrado — Área 400 (Bombeo),m2,479,372,10308,0.93,8423
+STAP-CIV-107,Civil,Pavimento rígido y vías internas — Área 300 (Tratamiento),m2,3480,3015,130430,1.0,126396
+STAP-CIV-108,Civil,Diques y muros de contención — Área 100 (Recepción),m3,758,718,165744,1.0,155239
+STAP-CIV-109,Civil,Relleno y compactación — Área 100 (Recepción),m3,7958,7590,58253,1.0,56901
+STAP-CIV-110,Civil,Relleno y compactación — Área 200 (Separación),m3,3675,3212,27710,0.92,27114
+STAP-CIV-111,Civil,Acero de refuerzo — Área 400 (Bombeo),kg,57530,56538,76515,1.0,84167
+STAP-CIV-112,Civil,Acero de refuerzo — Área 500 (Inyección),kg,34604,28577,46715,0.98,39353
+STAP-CIV-113,Civil,Drenajes y obras hidráulicas — Área 100 (Recepción),m,2325,1832,105113,0.87,82001
+STAP-CIV-114,Civil,Acero de refuerzo — Área 200 (Separación),kg,11770,11362,21539,1.0,20861
+STAP-CIV-115,Civil,Estructura metálica de soporte — Área 100 (Recepción),kg,10745,10164,24499,1.0,23846
+STAP-CIV-116,Civil,Relleno y compactación — Área 500 (Inyección),m3,8066,7082,60334,0.98,51034
+STAP-CIV-117,Civil,Concreto para pedestales de equipos — Área 100 (Recepción),m3,57,45,16502,0.89,12458
+STAP-CIV-118,Civil,Pavimento rígido y vías internas — Área 500 (Inyección),m2,647,590,28112,1.0,26676
+STAP-CIV-119,Civil,Estructura metálica de soporte — Área 100 (Recepción),kg,23554,20872,62889,0.95,53483
+STAP-CIV-120,Civil,Diques y muros de contención — Área 100 (Recepción),m3,846,725,179614,0.91,166245
+STAP-CIV-121,Civil,Concreto para cimentación — Área 200 (Separación),m3,418,321,100688,0.91,81301
+STAP-CIV-122,Civil,Acero de refuerzo — Área 200 (Separación),kg,49200,39463,71832,0.91,57305
+STAP-CIV-123,Civil,Acero de refuerzo — Área 200 (Separación),kg,37208,37100,59905,1.0,65554
+STAP-CIV-124,Civil,Acero de refuerzo — Área 300 (Tratamiento),kg,30741,30527,56563,1.0,53086
+STAP-CIV-125,Civil,Movimiento de tierras - excavación — Área 500 (Inyección),m3,2251,1786,11323,0.85,8655
+STAP-CIV-126,Civil,Diques y muros de contención — Área 200 (Separación),m3,314,272,76315,1.0,63870
+STAP-CIV-127,Civil,Pavimento rígido y vías internas — Área 600 (Servicios),m2,1035,837,51098,0.93,42914
+STAP-CIV-128,Civil,Estructura metálica de soporte — Área 400 (Bombeo),kg,38440,36267,99560,1.0,100132
+STAP-CIV-129,Civil,Diques y muros de contención — Área 200 (Separación),m3,435,411,114135,1.0,117587
+STAP-CIV-130,Civil,Formaleta y encofrado — Área 600 (Servicios),m2,1213,994,33527,0.9,28925
+STAP-CIV-131,Civil,Concreto para cimentación — Área 100 (Recepción),m3,564,459,194879,0.9,155304
+STAP-CIV-132,Civil,Concreto para cimentación — Área 600 (Servicios),m3,164,141,39877,0.93,38128
+STAP-CIV-133,Civil,Acero de refuerzo — Área 100 (Recepción),kg,36229,29305,49271,0.89,43433
+STAP-CIV-134,Civil,Estructura metálica de soporte — Área 300 (Tratamiento),kg,39157,38252,106899,1.0,110725
+STAP-CIV-135,Civil,Drenajes y obras hidráulicas — Área 100 (Recepción),m,1292,990,58153,0.85,47384
+STAP-CIV-136,Civil,Pavimento rígido y vías internas — Área 400 (Bombeo),m2,1359,1103,54455,0.94,44532
+STAP-CIV-137,Civil,Movimiento de tierras - excavación — Área 300 (Tratamiento),m3,6312,5759,41217,0.97,36432
+STAP-CIV-138,Civil,Diques y muros de contención — Área 300 (Tratamiento),m3,451,391,96054,0.91,93245
+STAP-CIV-139,Civil,Concreto para pedestales de equipos — Área 300 (Tratamiento),m3,131,98,36735,0.93,30667
+STAP-CIV-140,Civil,Estructura metálica de soporte — Área 500 (Inyección),kg,11497,9287,28857,0.92,22834
+STAP-CIV-141,Civil,Concreto para pedestales de equipos — Área 100 (Recepción),m3,103,87,32577,1.0,27541
+STAP-CIV-142,Civil,Relleno y compactación — Área 200 (Separación),m3,3664,2961,37519,0.86,32388
+STAP-CIV-143,Civil,Estructura metálica de soporte — Área 100 (Recepción),kg,44456,40016,90246,1.0,87597
+STAP-CIV-144,Civil,Acero de refuerzo — Área 100 (Recepción),kg,27938,22310,47774,0.85,42951
+STAP-CIV-145,Civil,Drenajes y obras hidráulicas — Área 200 (Separación),m,2467,2166,120858,0.95,109773
+STAP-CIV-146,Civil,Drenajes y obras hidráulicas — Área 600 (Servicios),m,1895,1707,88667,1.0,77496
+STAP-CIV-147,Civil,Pavimento rígido y vías internas — Área 500 (Inyección),m2,1212,1110,51425,0.96,52900
+STAP-CIV-148,Civil,Concreto para cimentación — Área 600 (Servicios),m3,194,176,63475,1.0,62207
+STAP-CIV-149,Civil,Diques y muros de contención — Área 600 (Servicios),m3,762,638,177980,0.88,166312
+STAP-CIV-150,Civil,Diques y muros de contención — Área 500 (Inyección),m3,262,219,75228,0.88,63835
+STAP-CIV-151,Civil,Drenajes y obras hidráulicas — Área 500 (Inyección),m,365,365,17640,1.0,19794
+STAP-CIV-152,Civil,Concreto para pedestales de equipos — Área 200 (Separación),m3,61,46,16074,0.91,12988
+STAP-CIV-153,Civil,Formaleta y encofrado — Área 400 (Bombeo),m2,829,811,18238,1.0,19220
+STAP-CIV-154,Civil,Diques y muros de contención — Área 600 (Servicios),m3,171,163,43723,1.0,39786
+STAP-CIV-155,Civil,Diques y muros de contención — Área 300 (Tratamiento),m3,817,689,174013,0.98,139963
+STAP-CIV-156,Civil,Movimiento de tierras - excavación — Área 600 (Servicios),m3,9486,7299,79777,0.81,65028
+STAP-CIV-157,Civil,Diques y muros de contención — Área 500 (Inyección),m3,668,584,130915,0.99,117076
+STAP-CIV-158,Civil,Relleno y compactación — Área 300 (Tratamiento),m3,7609,6483,74873,1.0,69969
+STAP-CIV-159,Civil,Relleno y compactación — Área 600 (Servicios),m3,8431,7723,63317,0.98,61279
+STAP-CIV-160,Civil,Concreto para pedestales de equipos — Área 400 (Bombeo),m3,99,87,33906,1.0,29423
+STAP-CIV-161,Civil,Pavimento rígido y vías internas — Área 600 (Servicios),m2,2166,1840,83543,0.93,74966
+STAP-CIV-162,Civil,Acero de refuerzo — Área 600 (Servicios),kg,58264,58093,73995,1.0,81082
+STAP-CIV-163,Civil,Concreto para pedestales de equipos — Área 300 (Tratamiento),m3,59,54,19285,1.0,17662
+STAP-CIV-164,Civil,Acero de refuerzo — Área 300 (Tratamiento),kg,50698,38674,90749,0.92,66754
+STAP-CIV-165,Civil,Drenajes y obras hidráulicas — Área 100 (Recepción),m,846,821,23832,1.0,22160
+STAP-CIV-166,Civil,Pavimento rígido y vías internas — Área 100 (Recepción),m2,1700,1283,93857,0.92,77853
+STAP-CIV-167,Civil,Concreto para pedestales de equipos — Área 600 (Servicios),m3,212,202,66693,1.0,62488
+STAP-CIV-168,Civil,Diques y muros de contención — Área 400 (Bombeo),m3,412,349,97858,0.95,79112
+STAP-CIV-169,Civil,Relleno y compactación — Área 300 (Tratamiento),m3,8820,8692,78586,1.0,87468
+STAP-CIV-170,Civil,Relleno y compactación — Área 400 (Bombeo),m3,5374,4614,33749,0.92,29071
+STAP-CIV-171,Civil,Relleno y compactación — Área 400 (Bombeo),m3,8216,6395,71479,0.83,53517
+STAP-CIV-172,Civil,Acero de refuerzo — Área 200 (Separación),kg,33352,29832,46359,0.99,40762
+STAP-CIV-173,Civil,Relleno y compactación — Área 600 (Servicios),m3,6263,5908,41586,1.0,37955
+STAP-CIV-174,Civil,Diques y muros de contención — Área 200 (Separación),m3,388,296,113261,0.83,93577
+STAP-CIV-175,Civil,Drenajes y obras hidráulicas — Área 100 (Recepción),m,2383,2268,82881,1.0,75795
+STAP-CIV-176,Civil,Formaleta y encofrado — Área 400 (Bombeo),m2,1347,1203,31654,1.0,30486
+STAP-CIV-177,Civil,Estructura metálica de soporte — Área 400 (Bombeo),kg,7627,7126,16474,1.0,17464
+STAP-CIV-178,Civil,Pavimento rígido y vías internas — Área 200 (Separación),m2,2260,1892,96638,0.9,90099
+STAP-CIV-179,Civil,Estructura metálica de soporte — Área 100 (Recepción),kg,28541,22631,68498,0.84,57297
+STAP-CIV-180,Civil,Formaleta y encofrado — Área 300 (Tratamiento),m2,407,344,8689,1.0,7759
+STAP-CIV-181,Civil,Estructura metálica de soporte — Área 200 (Separación),kg,13867,13146,42017,1.0,42797
+STAP-CIV-182,Civil,Movimiento de tierras - excavación — Área 300 (Tratamiento),m3,14122,11656,87698,1.0,75004
+STAP-CIV-183,Civil,Relleno y compactación — Área 500 (Inyección),m3,4718,3590,38310,0.95,30123
+STAP-CIV-184,Civil,Relleno y compactación — Área 300 (Tratamiento),m3,4454,3691,47970,0.97,44180
+STAP-CIV-185,Civil,Movimiento de tierras - excavación — Área 600 (Servicios),m3,6597,5997,35558,0.96,32985
+STAP-CIV-186,Civil,Acero de refuerzo — Área 200 (Separación),kg,49612,46044,95751,1.0,91747
+STAP-CIV-187,Civil,Acero de refuerzo — Área 200 (Separación),kg,36589,35593,59274,1.0,60514
+STAP-CIV-188,Civil,Formaleta y encofrado — Área 600 (Servicios),m2,2152,2075,60859,1.0,60666
+STAP-CIV-189,Civil,Estructura metálica de soporte — Área 600 (Servicios),kg,42316,38240,109598,0.98,94672
+STAP-CIV-190,Civil,Relleno y compactación — Área 400 (Bombeo),m3,1905,1654,20593,1.0,17130
+STAP-CIV-191,Civil,Pavimento rígido y vías internas — Área 600 (Servicios),m2,3118,2371,159521,0.95,126800
+STAP-MEC-001,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 200 (Separación),und,2,2,178309,1.0,200138
+STAP-MEC-002,Mecánica estática,Montaje de válvulas de proceso — Área 200 (Separación),und,112,61,145142,0.68,86456
+STAP-MEC-003,Mecánica estática,Soldadura de tubería de proceso — Área 600 (Servicios),pulg_diam,2703,1384,190994,0.58,105393
+STAP-MEC-004,Mecánica estática,Soldadura de tubería de proceso — Área 500 (Inyección),pulg_diam,1727,1376,76765,0.95,63718
+STAP-MEC-005,Mecánica estática,Aislamiento térmico de tubería — Área 300 (Tratamiento),m2,1326,714,14984,0.59,8741
+STAP-MEC-006,Mecánica estática,Prueba hidrostática de líneas — Área 400 (Bombeo),m,1662,813,7113,0.63,3698
+STAP-MEC-007,Mecánica estática,Prueba hidrostática de líneas — Área 500 (Inyección),m,3098,2085,11122,0.76,8407
+STAP-MEC-008,Mecánica estática,Aislamiento térmico de tubería — Área 500 (Inyección),m2,566,307,4047,0.68,2259
+STAP-MEC-009,Mecánica estática,Aislamiento térmico de tubería — Área 500 (Inyección),m2,1152,885,9458,0.94,7513
+STAP-MEC-010,Mecánica estática,Aislamiento térmico de tubería — Área 400 (Bombeo),m2,567,404,6294,0.78,4881
+STAP-MEC-011,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 400 (Bombeo),und,1,0,93688,0.16,0
+STAP-MEC-012,Mecánica estática,Tendido de tubería enterrada — Área 500 (Inyección),m,775,814,21204,0.79,12674
+STAP-MEC-013,Mecánica estática,Soldadura de tubería de proceso — Área 100 (Recepción),pulg_diam,566,269,35777,0.64,16238
+STAP-MEC-014,Mecánica estática,Tendido de tubería enterrada — Área 500 (Inyección),m,2495,1499,42914,0.78,27205
+STAP-MEC-015,Mecánica estática,Prueba hidrostática de líneas — Área 200 (Separación),m,3073,2578,16809,0.96,15830
+STAP-MEC-016,Mecánica estática,Soldadura de tubería de proceso — Área 600 (Servicios),pulg_diam,671,307,51144,0.64,24432
+STAP-MEC-017,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 400 (Bombeo),und,1,1,93917,1.0,105516
+STAP-MEC-018,Mecánica estática,Accesorios y soportería de tubería — Área 600 (Servicios),kg,9410,7927,12421,0.93,10744
+STAP-MEC-019,Mecánica estática,Montaje de válvulas de proceso — Área 500 (Inyección),und,28,15,36843,0.71,20308
+STAP-MEC-020,Mecánica estática,Accesorios y soportería de tubería — Área 500 (Inyección),kg,9202,5661,10122,0.68,6646
+STAP-MEC-021,Mecánica estática,Accesorios y soportería de tubería — Área 500 (Inyección),kg,18955,11696,18765,0.75,12890
+STAP-MEC-022,Mecánica estática,Aislamiento térmico de tubería — Área 500 (Inyección),m2,626,283,6266,0.58,2933
+STAP-MEC-023,Mecánica estática,Montaje de válvulas de proceso — Área 200 (Separación),und,60,39,47285,0.77,31872
+STAP-MEC-024,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 300 (Tratamiento),und,2,1,146483,0.65,69733
+STAP-MEC-025,Mecánica estática,Tendido de tubería enterrada — Área 300 (Tratamiento),m,1943,1588,35848,1.0,28687
+STAP-MEC-026,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 300 (Tratamiento),und,1,1,130426,1.0,144323
+STAP-MEC-027,Mecánica estática,Aislamiento térmico de tubería — Área 600 (Servicios),m2,1337,1030,12902,0.87,9695
+STAP-MEC-028,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 600 (Servicios),und,2,2,312450,1.0,314469
+STAP-MEC-029,Mecánica estática,Prueba hidrostática de líneas — Área 300 (Tratamiento),m,1921,917,6262,0.66,3330
+STAP-MEC-030,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 100 (Recepción),und,2,2,173747,1.0,186722
+STAP-MEC-031,Mecánica estática,Aislamiento térmico de tubería — Área 600 (Servicios),m2,671,451,5314,0.79,3495
+STAP-MEC-032,Mecánica estática,Soldadura de tubería de proceso — Área 300 (Tratamiento),pulg_diam,1613,1111,112652,0.81,86961
+STAP-MEC-033,Mecánica estática,Accesorios y soportería de tubería — Área 500 (Inyección),kg,24946,11458,37170,0.65,16960
+STAP-MEC-034,Mecánica estática,Tendido de tubería enterrada — Área 200 (Separación),m,407,224,10818,0.62,6167
+STAP-MEC-035,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 400 (Bombeo),und,2,1,219597,0.58,118532
+STAP-MEC-036,Mecánica estática,Prueba hidrostática de líneas — Área 100 (Recepción),m,2499,2043,8946,0.86,7526
+STAP-MEC-037,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 600 (Servicios),und,2,1,157098,0.65,79106
+STAP-MEC-038,Mecánica estática,Soldadura de tubería de proceso — Área 500 (Inyección),pulg_diam,491,264,20701,0.58,10848
+STAP-MEC-039,Mecánica estática,Tendido de tubería enterrada — Área 300 (Tratamiento),m,1644,1183,28885,0.85,19938
+STAP-MEC-040,Mecánica estática,Montaje de válvulas de proceso — Área 500 (Inyección),und,72,49,74169,0.83,50687
+STAP-MEC-041,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 400 (Bombeo),und,1,0,89719,0.18,0
+STAP-MEC-042,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 200 (Separación),und,1,1,61417,1.0,69335
+STAP-MEC-043,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 600 (Servicios),und,2,1,135966,0.56,68207
+STAP-MEC-044,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 300 (Tratamiento),und,2,1,185180,0.62,90858
+STAP-MEC-045,Mecánica estática,Soldadura de tubería de proceso — Área 500 (Inyección),pulg_diam,629,362,39954,0.64,23003
+STAP-MEC-046,Mecánica estática,Tendido de tubería enterrada — Área 400 (Bombeo),m,2835,1793,71329,0.69,49844
+STAP-MEC-047,Mecánica estática,Aislamiento térmico de tubería — Área 100 (Recepción),m2,708,507,5565,0.89,4214
+STAP-MEC-048,Mecánica estática,Soldadura de tubería de proceso — Área 400 (Bombeo),pulg_diam,652,337,38735,0.65,21081
+STAP-MEC-049,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 100 (Recepción),und,1,1,73080,1.0,70293
+STAP-MEC-050,Mecánica estática,Soldadura de tubería de proceso — Área 200 (Separación),pulg_diam,2909,1524,174860,0.7,97667
+STAP-MEC-051,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 500 (Inyección),und,2,2,152638,1.0,171983
+STAP-MEC-052,Mecánica estática,Prueba hidrostática de líneas — Área 300 (Tratamiento),m,2911,1819,8646,0.73,5223
+STAP-MEC-053,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 600 (Servicios),und,2,2,259354,1.0,259831
+STAP-MEC-054,Mecánica estática,Aislamiento térmico de tubería — Área 400 (Bombeo),m2,1665,1143,16217,0.79,11165
+STAP-MEC-055,Mecánica estática,Prueba hidrostática de líneas — Área 600 (Servicios),m,2305,2014,6154,1.0,5345
+STAP-MEC-056,Mecánica estática,Aislamiento térmico de tubería — Área 100 (Recepción),m2,559,337,4567,0.68,3119
+STAP-MEC-057,Mecánica estática,Accesorios y soportería de tubería — Área 100 (Recepción),kg,11611,6976,14978,0.71,9349
+STAP-MEC-058,Mecánica estática,Tendido de tubería enterrada — Área 300 (Tratamiento),m,1478,1318,38561,1.0,34037
+STAP-MEC-059,Mecánica estática,Prueba hidrostática de líneas — Área 300 (Tratamiento),m,2543,2189,14088,1.0,12620
+STAP-MEC-060,Mecánica estática,Montaje de válvulas de proceso — Área 100 (Recepción),und,30,25,41090,0.88,33147
+STAP-MEC-061,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 600 (Servicios),und,2,1,265999,0.69,142806
+STAP-MEC-062,Mecánica estática,Montaje de válvulas de proceso — Área 300 (Tratamiento),und,40,35,48652,0.95,40329
+STAP-MEC-063,Mecánica estática,Montaje de válvulas de proceso — Área 200 (Separación),und,69,44,50923,0.78,31494
+STAP-MEC-064,Mecánica estática,Prueba hidrostática de líneas — Área 600 (Servicios),m,2983,1832,16019,0.74,10524
+STAP-MEC-065,Mecánica estática,Aislamiento térmico de tubería — Área 600 (Servicios),m2,1166,561,13118,0.59,6739
+STAP-MEC-066,Mecánica estática,Soldadura de tubería de proceso — Área 600 (Servicios),pulg_diam,508,344,28448,0.72,21033
+STAP-MEC-067,Mecánica estática,Montaje de válvulas de proceso — Área 200 (Separación),und,93,48,127882,0.71,74002
+STAP-MEC-068,Mecánica estática,Prueba hidrostática de líneas — Área 500 (Inyección),m,2950,2358,12656,0.99,11437
+STAP-MEC-069,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 100 (Recepción),und,1,1,62928,1.0,69172
+STAP-MEC-070,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 200 (Separación),und,1,1,109343,1.0,115733
+STAP-MEC-071,Mecánica estática,Soldadura de tubería de proceso — Área 600 (Servicios),pulg_diam,526,446,21929,1.0,19225
+STAP-MEC-072,Mecánica estática,Soldadura de tubería de proceso — Área 100 (Recepción),pulg_diam,677,315,45251,0.61,23608
+STAP-MEC-073,Mecánica estática,Tendido de tubería enterrada — Área 500 (Inyección),m,1216,693,33537,0.72,20177
+STAP-MEC-074,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 200 (Separación),und,2,1,184288,0.63,89150
+STAP-MEC-075,Mecánica estática,Montaje de válvulas de proceso — Área 600 (Servicios),und,34,29,13616,0.99,11457
+STAP-MEC-076,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 200 (Separación),und,2,1,237819,0.62,118783
+STAP-MEC-077,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 300 (Tratamiento),und,1,1,105696,1.0,115111
+STAP-MEC-078,Mecánica estática,Prueba hidrostática de líneas — Área 300 (Tratamiento),m,1469,1290,3643,0.96,3067
+STAP-MEC-079,Mecánica estática,Accesorios y soportería de tubería — Área 300 (Tratamiento),kg,5586,3281,7485,0.73,4807
+STAP-MEC-080,Mecánica estática,Tendido de tubería enterrada — Área 300 (Tratamiento),m,2865,1444,66353,0.64,34667
+STAP-MEC-081,Mecánica estática,Soldadura de tubería de proceso — Área 500 (Inyección),pulg_diam,2091,1841,86400,1.0,81290
+STAP-MEC-082,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 100 (Recepción),und,2,1,236636,0.61,115864
+STAP-MEC-083,Mecánica estática,Montaje de válvulas de proceso — Área 100 (Recepción),und,111,77,149770,0.76,111862
+STAP-MEC-084,Mecánica estática,Accesorios y soportería de tubería — Área 500 (Inyección),kg,9582,4846,11211,0.57,5372
+STAP-MEC-085,Mecánica estática,Montaje de válvulas de proceso — Área 100 (Recepción),und,56,33,69142,0.69,40101
+STAP-MEC-086,Mecánica estática,Soldadura de tubería de proceso — Área 400 (Bombeo),pulg_diam,1824,1057,105683,0.66,69145
+STAP-MEC-087,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 500 (Inyección),und,2,1,215820,0.63,118329
+STAP-MEC-088,Mecánica estática,Accesorios y soportería de tubería — Área 300 (Tratamiento),kg,22940,18992,33722,0.97,29254
+STAP-MEC-089,Mecánica estática,Montaje de válvulas de proceso — Área 200 (Separación),und,109,77,68330,0.85,47905
+STAP-MEC-090,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 600 (Servicios),und,1,1,119863,1.0,122017
+STAP-MEC-091,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 400 (Bombeo),und,2,2,220241,1.0,216218
+STAP-MEC-092,Mecánica estática,Prueba hidrostática de líneas — Área 600 (Servicios),m,752,494,2835,0.78,2018
+STAP-MEC-093,Mecánica estática,Soldadura de tubería de proceso — Área 300 (Tratamiento),pulg_diam,1923,1396,91612,0.84,64528
+STAP-MEC-094,Mecánica estática,Prueba hidrostática de líneas — Área 400 (Bombeo),m,2632,1552,10581,0.67,6872
+STAP-MEC-095,Mecánica estática,Montaje de válvulas de proceso — Área 500 (Inyección),und,78,43,39548,0.67,21247
+STAP-MEC-096,Mecánica estática,Soldadura de tubería de proceso — Área 500 (Inyección),pulg_diam,1827,1137,111849,0.76,70367
+STAP-MEC-097,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 600 (Servicios),und,2,1,227000,0.6,117554
+STAP-MEC-098,Mecánica estática,Tendido de tubería enterrada — Área 600 (Servicios),m,1094,917,24713,0.92,21167
+STAP-MEC-099,Mecánica estática,Accesorios y soportería de tubería — Área 300 (Tratamiento),kg,22978,16096,23897,0.82,17629
+STAP-MEC-100,Mecánica estática,Aislamiento térmico de tubería — Área 200 (Separación),m2,1516,877,17404,0.78,10861
+STAP-MEC-101,Mecánica estática,Montaje de válvulas de proceso — Área 600 (Servicios),und,54,31,38180,0.74,22339
+STAP-MEC-102,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 600 (Servicios),und,1,1,138631,1.0,149178
+STAP-MEC-103,Mecánica estática,Tendido de tubería enterrada — Área 200 (Separación),m,2869,1377,67192,0.66,33773
+STAP-MEC-104,Mecánica estática,Montaje de válvulas de proceso — Área 300 (Tratamiento),und,61,40,88842,0.71,55809
+STAP-MEC-105,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 100 (Recepción),und,1,1,154013,1.0,145333
+STAP-MEC-106,Mecánica estática,Montaje de válvulas de proceso — Área 200 (Separación),und,69,45,36887,0.81,26601
+STAP-MEC-107,Mecánica estática,Accesorios y soportería de tubería — Área 300 (Tratamiento),kg,28028,13990,30270,0.58,16111
+STAP-MEC-108,Mecánica estática,Montaje de válvulas de proceso — Área 100 (Recepción),und,33,29,36050,1.0,31194
+STAP-MEC-109,Mecánica estática,Accesorios y soportería de tubería — Área 400 (Bombeo),kg,10764,5592,15500,0.61,8847
+STAP-MEC-110,Mecánica estática,Soldadura de tubería de proceso — Área 400 (Bombeo),pulg_diam,451,274,24634,0.76,15653
+STAP-MEC-111,Mecánica estática,Montaje de válvulas de proceso — Área 300 (Tratamiento),und,84,61,124753,0.9,101286
+STAP-MEC-112,Mecánica estática,Aislamiento térmico de tubería — Área 500 (Inyección),m2,245,201,1899,0.94,1516
+STAP-MEC-113,Mecánica estática,Prueba hidrostática de líneas — Área 400 (Bombeo),m,422,330,2021,0.94,1546
+STAP-MEC-114,Mecánica estática,Prueba hidrostática de líneas — Área 600 (Servicios),m,1336,1058,6092,0.91,5212
+STAP-MEC-115,Mecánica estática,Montaje de válvulas de proceso — Área 100 (Recepción),und,106,85,60375,0.96,49270
+STAP-MEC-116,Mecánica estática,Aislamiento térmico de tubería — Área 600 (Servicios),m2,1085,935,9342,0.92,8749
+STAP-MEC-117,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 400 (Bombeo),und,2,2,203860,1.0,224729
+STAP-MEC-118,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 400 (Bombeo),und,2,1,257115,0.66,126782
+STAP-MEC-119,Mecánica estática,Aislamiento térmico de tubería — Área 400 (Bombeo),m2,240,171,2438,0.83,1648
+STAP-MEC-120,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 400 (Bombeo),und,2,2,245660,1.0,243669
+STAP-MEC-121,Mecánica estática,Aislamiento térmico de tubería — Área 500 (Inyección),m2,417,295,3011,0.81,2374
+STAP-MEC-122,Mecánica estática,Montaje de válvulas de proceso — Área 200 (Separación),und,40,32,47281,0.98,39466
+STAP-MEC-123,Mecánica estática,Tendido de tubería enterrada — Área 400 (Bombeo),m,814,589,22784,0.82,16045
+STAP-MEC-124,Mecánica estática,Montaje de válvulas de proceso — Área 100 (Recepción),und,111,73,100631,0.77,62781
+STAP-MEC-125,Mecánica estática,Tendido de tubería enterrada — Área 600 (Servicios),m,2536,1966,53002,0.86,39406
+STAP-MEC-126,Mecánica estática,Aislamiento térmico de tubería — Área 200 (Separación),m2,630,394,7566,0.75,5301
+STAP-MEC-127,Mecánica estática,Prueba hidrostática de líneas — Área 100 (Recepción),m,2504,1560,12169,0.71,7465
+STAP-MEC-128,Mecánica estática,Tendido de tubería enterrada — Área 300 (Tratamiento),m,3011,2421,50796,0.98,44807
+STAP-MEC-129,Mecánica estática,Prueba hidrostática de líneas — Área 100 (Recepción),m,2037,1375,5317,0.79,3966
+STAP-MEC-130,Mecánica estática,Prueba hidrostática de líneas — Área 600 (Servicios),m,2122,1131,9400,0.62,5609
+STAP-MEC-131,Mecánica estática,Tendido de tubería enterrada — Área 200 (Separación),m,2776,1430,54993,0.65,29888
+STAP-MEC-132,Mecánica estática,Accesorios y soportería de tubería — Área 500 (Inyección),kg,28296,20139,32540,0.77,24795
+STAP-MEC-133,Mecánica estática,Montaje de válvulas de proceso — Área 200 (Separación),und,70,60,62369,0.95,53493
+STAP-MEC-134,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 600 (Servicios),und,1,1,125353,1.0,124479
+STAP-MEC-135,Mecánica estática,Montaje de válvulas de proceso — Área 600 (Servicios),und,80,66,87780,1.0,73525
+STAP-MEC-136,Mecánica estática,Montaje de válvulas de proceso — Área 600 (Servicios),und,38,21,29114,0.66,16754
+STAP-MEC-137,Mecánica estática,Prueba hidrostática de líneas — Área 500 (Inyección),m,2317,1992,12998,0.9,11521
+STAP-MEC-138,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 200 (Separación),und,2,1,177592,0.63,91028
+STAP-MEC-139,Mecánica estática,Accesorios y soportería de tubería — Área 300 (Tratamiento),kg,27075,18243,30595,0.86,20566
+STAP-MEC-140,Mecánica estática,Prueba hidrostática de líneas — Área 100 (Recepción),m,3180,2538,9572,0.92,8071
+STAP-MEC-141,Mecánica estática,Accesorios y soportería de tubería — Área 300 (Tratamiento),kg,15730,14145,16516,1.0,15249
+STAP-MEC-142,Mecánica estática,Tendido de tubería enterrada — Área 500 (Inyección),m,2364,1614,54136,0.83,37696
+STAP-MEC-143,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 300 (Tratamiento),und,2,1,190891,0.6,99580
+STAP-MEC-144,Mecánica estática,Prueba hidrostática de líneas — Área 500 (Inyección),m,633,454,1703,0.81,1238
+STAP-MEC-145,Mecánica estática,Tendido de tubería enterrada — Área 300 (Tratamiento),m,975,855,22952,1.0,21745
+STAP-MEC-146,Mecánica estática,Soldadura de tubería de proceso — Área 100 (Recepción),pulg_diam,447,307,21353,0.74,15457
+STAP-MEC-147,Mecánica estática,Accesorios y soportería de tubería — Área 500 (Inyección),kg,12192,7541,15484,0.72,9256
+STAP-MEC-148,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 400 (Bombeo),und,1,1,75205,1.0,71475
+STAP-MEC-149,Mecánica estática,Tendido de tubería enterrada — Área 400 (Bombeo),m,1025,726,19485,0.89,13859
+STAP-MEC-150,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 500 (Inyección),und,1,1,114011,1.0,119487
+STAP-MEC-151,Mecánica estática,Accesorios y soportería de tubería — Área 200 (Separación),kg,10467,7003,12560,0.78,7987
+STAP-MEC-152,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 100 (Recepción),und,2,1,265903,0.7,143524
+STAP-MEC-153,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 200 (Separación),und,2,1,229416,0.62,111587
+STAP-MEC-154,Mecánica estática,Aislamiento térmico de tubería — Área 400 (Bombeo),m2,1209,988,11884,0.88,9652
+STAP-MEC-155,Mecánica estática,Aislamiento térmico de tubería — Área 200 (Separación),m2,495,294,5222,0.79,3484
+STAP-MEC-156,Mecánica estática,Aislamiento térmico de tubería — Área 600 (Servicios),m2,537,441,5230,0.94,4283
+STAP-MEC-157,Mecánica estática,Soldadura de tubería de proceso — Área 400 (Bombeo),pulg_diam,1056,528,74554,0.68,40597
+STAP-MEC-158,Mecánica estática,Aislamiento térmico de tubería — Área 400 (Bombeo),m2,1562,1188,13308,0.93,10778
+STAP-MEC-159,Mecánica estática,Tendido de tubería enterrada — Área 600 (Servicios),m,2144,1920,47104,1.0,40342
+STAP-MEC-160,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 600 (Servicios),und,1,1,130478,1.0,135903
+STAP-MEC-161,Mecánica estática,Soldadura de tubería de proceso — Área 600 (Servicios),pulg_diam,484,252,30124,0.61,16664
+STAP-MEC-162,Mecánica estática,Tendido de tubería enterrada — Área 400 (Bombeo),m,784,533,18236,0.8,12191
+STAP-MEC-163,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 400 (Bombeo),und,1,1,77432,1.0,73599
+STAP-MEC-164,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 600 (Servicios),und,2,1,135751,0.64,65255
+STAP-MEC-165,Mecánica estática,Tendido de tubería enterrada — Área 500 (Inyección),m,1798,1297,40904,0.82,30615
+STAP-MEC-166,Mecánica estática,Montaje de válvulas de proceso — Área 400 (Bombeo),und,56,50,48168,1.0,45832
+STAP-MEC-167,Mecánica estática,Accesorios y soportería de tubería — Área 300 (Tratamiento),kg,22154,10391,20825,0.57,9260
+STAP-MEC-168,Mecánica estática,Accesorios y soportería de tubería — Área 400 (Bombeo),kg,15638,12580,21893,0.89,16677
+STAP-MEC-169,Mecánica estática,Tendido de tubería enterrada — Área 500 (Inyección),m,2463,1874,73693,0.8,62577
+STAP-MEC-170,Mecánica estática,Tendido de tubería enterrada — Área 100 (Recepción),m,1233,724,31170,0.76,17352
+STAP-MEC-171,Mecánica estática,Tendido de tubería enterrada — Área 300 (Tratamiento),m,1187,847,24381,0.86,17795
+STAP-MEC-172,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 100 (Recepción),und,1,1,123315,1.0,129507
+STAP-MEC-173,Mecánica estática,Prueba hidrostática de líneas — Área 500 (Inyección),m,2670,1800,14044,0.8,10472
+STAP-MEC-174,Mecánica estática,Soldadura de tubería de proceso — Área 100 (Recepción),pulg_diam,2032,1158,103734,0.71,58271
+STAP-MEC-175,Mecánica estática,Soldadura de tubería de proceso — Área 400 (Bombeo),pulg_diam,1177,811,82296,0.89,59895
+STAP-MEC-176,Mecánica estática,Soldadura de tubería de proceso — Área 500 (Inyección),pulg_diam,2451,1737,179168,0.81,126032
+STAP-MEC-177,Mecánica estática,Prueba hidrostática de líneas — Área 600 (Servicios),m,2925,1476,8424,0.57,4482
+STAP-MEC-178,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 600 (Servicios),und,1,1,87251,1.0,90044
+STAP-MEC-179,Mecánica estática,Aislamiento térmico de tubería — Área 100 (Recepción),m2,1480,737,16073,0.55,8464
+STAP-MEC-180,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 100 (Recepción),und,1,1,94167,1.0,88872
+STAP-MEC-181,Mecánica estática,Soldadura de tubería de proceso — Área 200 (Separación),pulg_diam,1910,1309,137004,0.86,94351
+STAP-MEC-182,Mecánica estática,Accesorios y soportería de tubería — Área 300 (Tratamiento),kg,22418,16272,29816,0.89,20845
+STAP-MEC-183,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 100 (Recepción),und,2,1,126069,0.54,70011
+STAP-MEC-184,Mecánica estática,Prueba hidrostática de líneas — Área 100 (Recepción),m,2719,2166,12154,0.89,9963
+STAP-MEC-185,Mecánica estática,Aislamiento térmico de tubería — Área 100 (Recepción),m2,1362,1051,13157,0.87,9770
+STAP-MEC-186,Mecánica estática,Prueba hidrostática de líneas — Área 400 (Bombeo),m,2756,1450,12815,0.61,6804
+STAP-MEC-187,Mecánica estática,Aislamiento térmico de tubería — Área 400 (Bombeo),m2,337,167,2393,0.68,1190
+STAP-MEC-188,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 500 (Inyección),und,2,1,244327,0.6,126657
+STAP-MEC-189,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 200 (Separación),und,1,1,131018,1.0,136230
+STAP-MEC-190,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 100 (Recepción),und,1,1,94603,1.0,100666
+STAP-MEC-191,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 100 (Recepción),und,1,0,100183,0.18,0
+STAP-MEC-192,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 600 (Servicios),und,2,1,123423,0.69,65503
+STAP-MEC-193,Mecánica estática,Montaje de válvulas de proceso — Área 200 (Separación),und,77,50,92546,0.79,59118
+STAP-MEC-194,Mecánica estática,Soldadura de tubería de proceso — Área 600 (Servicios),pulg_diam,1898,1067,129406,0.61,77672
+STAP-MEC-195,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 500 (Inyección),und,1,1,83844,1.0,81716
+STAP-MEC-196,Mecánica estática,Aislamiento térmico de tubería — Área 300 (Tratamiento),m2,1143,954,11887,0.93,9874
+STAP-MEC-197,Mecánica estática,Soldadura de tubería de proceso — Área 100 (Recepción),pulg_diam,530,453,21518,1.0,18359
+STAP-MEC-198,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 600 (Servicios),und,2,1,213795,0.64,104741
+STAP-MEC-199,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 300 (Tratamiento),und,2,2,218455,1.0,229729
+STAP-MEC-200,Mecánica estática,Tendido de tubería enterrada — Área 400 (Bombeo),m,2755,1854,72484,0.86,54133
+STAP-MEC-201,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 100 (Recepción),und,1,1,137955,1.0,138888
+STAP-MEC-202,Mecánica estática,Tendido de tubería enterrada — Área 400 (Bombeo),m,3041,1902,55894,0.78,37486
+STAP-MEC-203,Mecánica estática,Aislamiento térmico de tubería — Área 400 (Bombeo),m2,989,544,10820,0.64,6079
+STAP-MEC-204,Mecánica estática,Accesorios y soportería de tubería — Área 300 (Tratamiento),kg,29710,25072,40406,0.96,37196
+STAP-MEC-205,Mecánica estática,Accesorios y soportería de tubería — Área 600 (Servicios),kg,13171,10626,12381,0.89,10802
+STAP-MEC-206,Mecánica estática,Tendido de tubería enterrada — Área 100 (Recepción),m,2881,1521,75713,0.63,40515
+STAP-MEC-207,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 200 (Separación),und,2,1,214552,0.7,105337
+STAP-MEC-208,Mecánica estática,Prueba hidrostática de líneas — Área 500 (Inyección),m,1986,1153,9155,0.71,5616
+STAP-MEC-209,Mecánica estática,Montaje de válvulas de proceso — Área 100 (Recepción),und,77,39,52837,0.63,25905
+STAP-MEC-210,Mecánica estática,Tendido de tubería enterrada — Área 200 (Separación),m,1477,921,29318,0.73,18341
+STAP-MEC-211,Mecánica estática,Soldadura de tubería de proceso — Área 500 (Inyección),pulg_diam,1581,758,111192,0.54,58621
+STAP-MEC-212,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 500 (Inyección),und,2,2,277359,1.0,311062
+STAP-MEC-213,Mecánica estática,Aislamiento térmico de tubería — Área 500 (Inyección),m2,910,553,8845,0.69,5588
+STAP-MEC-214,Mecánica estática,Aislamiento térmico de tubería — Área 600 (Servicios),m2,981,526,7887,0.62,4230
+STAP-MEC-215,Mecánica estática,Montaje de válvulas de proceso — Área 600 (Servicios),und,59,33,62352,0.6,34257
+STAP-MEC-216,Mecánica estática,Prueba hidrostática de líneas — Área 300 (Tratamiento),m,2305,1726,10810,0.84,9113
+STAP-MEC-217,Mecánica estática,Soldadura de tubería de proceso — Área 100 (Recepción),pulg_diam,1976,1028,112276,0.67,56085
+STAP-MEC-218,Mecánica estática,Tendido de tubería enterrada — Área 500 (Inyección),m,656,323,12694,0.58,6331
+STAP-MEC-219,Mecánica estática,Accesorios y soportería de tubería — Área 500 (Inyección),kg,21100,17423,23210,0.89,20085
+STAP-MEC-220,Mecánica estática,Montaje de válvulas de proceso — Área 100 (Recepción),und,44,29,26634,0.83,17896
+STAP-MEC-221,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 500 (Inyección),und,2,2,178890,1.0,202083
+STAP-MEC-222,Mecánica estática,Tendido de tubería enterrada — Área 200 (Separación),m,2048,1068,55378,0.62,28210
+STAP-MEC-223,Mecánica estática,Montaje de válvulas de proceso — Área 400 (Bombeo),und,25,19,35461,0.86,26148
+STAP-MEC-224,Mecánica estática,Tendido de tubería enterrada — Área 400 (Bombeo),m,834,735,17764,0.95,17483
+STAP-MEC-225,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 100 (Recepción),und,1,1,107239,1.0,115958
+STAP-MEC-226,Mecánica estática,Tendido de tubería enterrada — Área 100 (Recepción),m,1549,1049,36216,0.75,26915
+STAP-MEC-227,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 500 (Inyección),und,1,1,99199,1.0,108840
+STAP-MEC-228,Mecánica estática,Aislamiento térmico de tubería — Área 300 (Tratamiento),m2,1401,713,13842,0.66,6760
+STAP-MEC-229,Mecánica estática,Accesorios y soportería de tubería — Área 400 (Bombeo),kg,17957,10188,17239,0.75,9576
+STAP-MEC-230,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 300 (Tratamiento),und,2,1,256200,0.6,138855
+STAP-MEC-231,Mecánica estática,Montaje de válvulas de proceso — Área 100 (Recepción),und,43,24,34179,0.7,21572
+STAP-MEC-232,Mecánica estática,Soldadura de tubería de proceso — Área 600 (Servicios),pulg_diam,542,296,32710,0.73,19963
+STAP-MEC-233,Mecánica estática,Aislamiento térmico de tubería — Área 100 (Recepción),m2,1197,605,14113,0.63,7962
+STAP-MEC-234,Mecánica estática,Prueba hidrostática de líneas — Área 100 (Recepción),m,891,619,4170,0.78,3164
+STAP-MEC-235,Mecánica estática,Accesorios y soportería de tubería — Área 600 (Servicios),kg,14443,11515,17909,0.9,14803
+STAP-MEC-236,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 200 (Separación),und,2,1,195219,0.63,109280
+STAP-MEC-237,Mecánica estática,Tendido de tubería enterrada — Área 200 (Separación),m,1363,804,40917,0.69,25600
+STAP-MEC-238,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 300 (Tratamiento),und,1,0,135974,0.07,0
+STAP-MEC-239,Mecánica estática,Soldadura de tubería de proceso — Área 100 (Recepción),pulg_diam,2664,2219,194232,0.92,159466
+STAP-MEC-240,Mecánica estática,Accesorios y soportería de tubería — Área 600 (Servicios),kg,29767,22273,36018,0.81,25977
+STAP-MEC-241,Mecánica estática,Aislamiento térmico de tubería — Área 300 (Tratamiento),m2,314,221,2368,0.8,1773
+STAP-MEC-242,Mecánica estática,Soldadura de tubería de proceso — Área 300 (Tratamiento),pulg_diam,1214,820,78509,0.76,50653
+STAP-MEC-243,Mecánica estática,Aislamiento térmico de tubería — Área 400 (Bombeo),m2,1752,840,18063,0.57,9337
+STAP-MEC-244,Mecánica estática,Tendido de tubería enterrada — Área 100 (Recepción),m,1922,1061,37844,0.61,22517
+STAP-MEC-245,Mecánica estática,Tendido de tubería enterrada — Área 400 (Bombeo),m,2371,1832,50787,0.86,44022
+STAP-MEC-246,Mecánica estática,Montaje de válvulas de proceso — Área 100 (Recepción),und,38,24,53538,0.82,38017
+STAP-MEC-247,Mecánica estática,Aislamiento térmico de tubería — Área 100 (Recepción),m2,1668,1332,19382,0.98,14667
+STAP-MEC-248,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 500 (Inyección),und,1,1,66535,1.0,73624
+STAP-MEC-249,Mecánica estática,Tendido de tubería enterrada — Área 100 (Recepción),m,972,495,26263,0.59,12907
+STAP-MEC-250,Mecánica estática,Prueba hidrostática de líneas — Área 400 (Bombeo),m,489,227,2166,0.61,1071
+STAP-MEC-251,Mecánica estática,Tendido de tubería enterrada — Área 400 (Bombeo),m,1721,1288,47586,0.84,36703
+STAP-MEC-252,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 200 (Separación),und,2,1,189446,0.65,104621
+STAP-MEC-253,Mecánica estática,Soldadura de tubería de proceso — Área 500 (Inyección),pulg_diam,1138,870,75108,0.84,58063
+STAP-MEC-254,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 300 (Tratamiento),und,2,2,260537,1.0,246226
+STAP-MEC-255,Mecánica estática,Prueba hidrostática de líneas — Área 100 (Recepción),m,2086,1269,6675,0.75,3962
+STAP-MEC-256,Mecánica estática,Accesorios y soportería de tubería — Área 300 (Tratamiento),kg,22710,12076,32021,0.59,16772
+STAP-MEC-257,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 300 (Tratamiento),und,2,2,199496,1.0,193496
+STAP-MEC-258,Mecánica estática,Aislamiento térmico de tubería — Área 500 (Inyección),m2,1188,927,9041,0.93,7379
+STAP-MEC-259,Mecánica estática,Soldadura de tubería de proceso — Área 600 (Servicios),pulg_diam,2984,1397,216519,0.51,108631
+STAP-MEC-260,Mecánica estática,Montaje de válvulas de proceso — Área 300 (Tratamiento),und,91,48,82679,0.6,49390
+STAP-MEC-261,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 300 (Tratamiento),und,2,1,278001,0.6,148497
+STAP-MEC-262,Mecánica estática,Prueba hidrostática de líneas — Área 200 (Separación),m,1471,688,8267,0.56,4330
+STAP-MEC-263,Mecánica estática,Montaje de tanque de almacenamiento API 650 — Área 200 (Separación),und,2,1,210665,0.57,109148
+STAP-MEC-264,Mecánica estática,Soldadura de tubería de proceso — Área 600 (Servicios),pulg_diam,1602,1326,72747,0.96,67518
+STAP-MEC-265,Mecánica estática,Soldadura de tubería de proceso — Área 300 (Tratamiento),pulg_diam,2210,1707,153330,0.85,130517
+STAP-MEC-266,Mecánica estática,Montaje de recipiente/separador API-CPI — Área 500 (Inyección),und,2,1,120874,0.65,59084
+STAP-MEC-267,Mecánica estática,Accesorios y soportería de tubería — Área 100 (Recepción),kg,10088,6124,11645,0.65,7353
+STAP-INS-001,Instrumentación,Bandejas y canalización de señales — Área 500 (Inyección),m,1672,779,17589,0.65,8498
+STAP-INS-002,Instrumentación,Lazo de control - pruebas de lazo — Área 600 (Servicios),und,42,6,32549,0.21,4529
+STAP-INS-003,Instrumentación,Instalación de instrumento de campo (Tx) — Área 200 (Separación),und,29,8,46840,0.41,13025
+STAP-INS-004,Instrumentación,Válvula de control y actuador — Área 600 (Servicios),und,11,2,71336,0.35,12611
+STAP-INS-005,Instrumentación,Sistema de parada de emergencia (ESD) — Área 300 (Tratamiento),und,11,5,135016,0.53,63601
+STAP-INS-006,Instrumentación,Lazo de control - pruebas de lazo — Área 400 (Bombeo),und,53,22,24763,0.48,10725
+STAP-INS-007,Instrumentación,Sistema de parada de emergencia (ESD) — Área 600 (Servicios),und,7,1,78831,0.34,12763
+STAP-INS-008,Instrumentación,Bandejas y canalización de señales — Área 600 (Servicios),m,3899,923,39653,0.33,8957
+STAP-INS-009,Instrumentación,Sistema de parada de emergencia (ESD) — Área 600 (Servicios),ml,10,4,65550,0.48,28536
+STAP-INS-010,Instrumentación,Cableado de instrumentación — Área 200 (Separación),m,9018,4050,55731,0.6,24272
+STAP-INS-011,Instrumentación,Sistema de parada de emergencia (ESD) — Área 600 (Servicios),und,5,1,32383,0.35,6730
+STAP-INS-012,Instrumentación,Lazo de control - pruebas de lazo — Área 200 (Separación),und,96,35,36607,0.55,13147
+STAP-INS-013,Instrumentación,Bandejas y canalización de señales — Área 200 (Separación),m,1466,605,12461,0.53,5300
+STAP-INS-014,Instrumentación,Instalación de instrumento de campo (Tx) — Área 400 (Bombeo),und,63,29,71496,0.63,33792
+STAP-INS-015,Instrumentación,Instalación de instrumento de campo (Tx) — Área 200 (Separación),und,71,35,102493,0.56,53765
+STAP-INS-016,Instrumentación,Cableado de instrumentación — Área 600 (Servicios),m,13243,2412,83431,0.36,17068
+STAP-INS-017,Instrumentación,Sistema de parada de emergencia (ESD) — Área 100 (Recepción),und,5,2,56825,0.5,24675
+STAP-INS-018,Instrumentación,Lazo de control - pruebas de lazo — Área 600 (Servicios),und,143,37,51612,0.42,15103
+STAP-INS-019,Instrumentación,Válvula de control y actuador — Área 600 (Servicios),und,25,12,127192,0.61,62791
+STAP-INS-020,Instrumentación,Cableado de instrumentación — Área 300 (Tratamiento),m,11626,1831,67082,0.31,11508
+STAP-INS-021,Instrumentación,Bandejas y canalización de señales — Área 400 (Bombeo),m,3839,771,23341,0.33,4645
+STAP-INS-022,Instrumentación,Cableado de instrumentación — Área 500 (Inyección),m,13092,4760,80516,0.56,30438
+STAP-INS-023,Instrumentación,Sistema de parada de emergencia (ESD) — Área 100 (Recepción),und,8,1,98337,0.2,13440
+STAP-INS-024,Instrumentación,Bandejas y canalización de señales — Área 400 (Bombeo),m,1685,792,9251,0.6,4762
+STAP-INS-025,Instrumentación,Cableado de instrumentación — Área 300 (Tratamiento),m,2711,601,10627,0.32,2228
+STAP-INS-026,Instrumentación,Válvula de control y actuador — Área 300 (Tratamiento),und,18,5,89557,0.47,23487
+STAP-INS-027,Instrumentación,Sistema de parada de emergencia (ESD) — Área 400 (Bombeo),und,3,1,22036,0.49,7051
+STAP-INS-028,Instrumentación,Sistema de parada de emergencia (ESD) — Área 200 (Separación),und,11,5,97180,0.63,48884
+STAP-INS-029,Instrumentación,Lazo de control - pruebas de lazo — Área 400 (Bombeo),und,48,11,15256,0.3,3923
+STAP-INS-030,Instrumentación,Sistema de parada de emergencia (ESD) — Área 300 (Tratamiento),und,3,1,35018,0.46,12117
+STAP-INS-031,Instrumentación,Bandejas y canalización de señales — Área 600 (Servicios),m,2808,1133,19403,0.54,8320
+STAP-INS-032,Instrumentación,Sistema de parada de emergencia (ESD) — Área 500 (Inyección),und,8,2,78083,0.29,19390
+STAP-INS-033,Instrumentación,Válvula de control y actuador — Área 100 (Recepción),und,6,1,37199,0.28,6184
+STAP-INS-034,Instrumentación,Bandejas y canalización de señales — Área 600 (Servicios),m,1671,764,14989,0.54,6810
+STAP-INS-035,Instrumentación,Bandejas y canalización de señales — Área 200 (Separación),m,3364,1012,23010,0.36,6754
+STAP-INS-036,Instrumentación,Instalación de instrumento de campo (Tx) — Área 100 (Recepción),und,55,11,86155,0.25,18112
+STAP-INS-037,Instrumentación,Sistema de parada de emergencia (ESD) — Área 200 (Separación),und,4,1,33369,0.3,8564
+STAP-INS-038,Instrumentación,Bandejas y canalización de señales — Área 600 (Servicios),m,2652,343,27050,0.3,3741
+STAP-INS-039,Instrumentación,Cableado de instrumentación — Área 300 (Tratamiento),m,3674,1213,24212,0.49,7841
+STAP-INS-040,Instrumentación,Bandejas y canalización de señales — Área 200 (Separación),m,3026,309,21999,0.19,2398
+STAP-INS-041,Instrumentación,Bandejas y canalización de señales — Área 200 (Separación),m,3880,1385,28828,0.4,11031
+STAP-INS-042,Instrumentación,Válvula de control y actuador — Área 300 (Tratamiento),und,14,3,100020,0.26,22837
+STAP-INS-043,Instrumentación,Válvula de control y actuador — Área 100 (Recepción),und,21,5,99017,0.42,25555
+STAP-INS-044,Instrumentación,Lazo de control - pruebas de lazo — Área 600 (Servicios),und,190,21,142283,0.23,17252
+STAP-INS-045,Instrumentación,Sistema de parada de emergencia (ESD) — Área 400 (Bombeo),und,2,1,26264,0.67,13221
+STAP-INS-046,Instrumentación,Sistema de parada de emergencia (ESD) — Área 300 (Tratamiento),und,9,2,103955,0.4,24998
+STAP-INS-047,Instrumentación,Lazo de control - pruebas de lazo — Área 200 (Separación),und,178,74,107482,0.47,50465
+STAP-INS-048,Instrumentación,Bandejas y canalización de señales — Área 400 (Bombeo),m,1431,494,9073,0.51,3340
+STAP-INS-049,Instrumentación,Bandejas y canalización de señales — Área 100 (Recepción),m,2144,1062,12692,0.6,6156
+STAP-INS-050,Instrumentación,Sistema de parada de emergencia (ESD) — Área 600 (Servicios),und,9,4,68069,0.62,29974
+STAP-INS-051,Instrumentación,Válvula de control y actuador — Área 500 (Inyección),und,6,1,27531,0.26,4427
+STAP-INS-052,Instrumentación,Lazo de control - pruebas de lazo — Área 100 (Recepción),und,138,50,50491,0.45,18231
+STAP-INS-053,Instrumentación,Bandejas y canalización de señales — Área 400 (Bombeo),m,726,193,6048,0.42,1665
+STAP-INS-054,Instrumentación,Válvula de control y actuador — Área 600 (Servicios),und,10,4,65907,0.47,28167
+STAP-INS-055,Instrumentación,Cableado de instrumentación — Área 300 (Tratamiento),m,13874,1491,59658,0.18,7176
+STAP-INS-056,Instrumentación,Instalación de instrumento de campo (Tx) — Área 600 (Servicios),und,133,41,216694,0.48,66893
+STAP-INS-057,Instrumentación,Válvula de control y actuador — Área 500 (Inyección),und,18,4,121304,0.32,27166
+STAP-INS-058,Instrumentación,Válvula de control y actuador — Área 500 (Inyección),und,39,9,261219,0.38,62877
+STAP-INS-059,Instrumentación,Bandejas y canalización de señales — Área 500 (Inyección),m,1132,505,12373,0.51,6188
+STAP-INS-060,Instrumentación,Lazo de control - pruebas de lazo — Área 100 (Recepción),und,50,25,34737,0.63,16951
+STAP-INS-061,Instrumentación,Bandejas y canalización de señales — Área 600 (Servicios),m,3270,628,23838,0.33,4708
+STAP-INS-062,Instrumentación,Válvula de control y actuador — Área 400 (Bombeo),und,32,14,291898,0.55,132897
+STAP-INS-063,Instrumentación,Bandejas y canalización de señales — Área 300 (Tratamiento),m,3151,355,19505,0.26,2126
+STAP-INS-064,Instrumentación,Lazo de control - pruebas de lazo — Área 200 (Separación),und,192,69,59347,0.49,20334
+STAP-INS-065,Instrumentación,Cableado de instrumentación — Área 600 (Servicios),m,13119,5019,84224,0.51,33729
+STAP-INS-066,Instrumentación,Instalación de instrumento de campo (Tx) — Área 300 (Tratamiento),und,57,14,83797,0.37,20440
+STAP-INS-067,Instrumentación,Lazo de control - pruebas de lazo — Área 300 (Tratamiento),und,178,37,135234,0.29,28793
+STAP-INS-068,Instrumentación,Lazo de control - pruebas de lazo — Área 400 (Bombeo),und,91,29,52186,0.37,16299
+STAP-INS-069,Instrumentación,Válvula de control y actuador — Área 200 (Separación),und,13,6,72146,0.66,32954
+STAP-INS-070,Instrumentación,Lazo de control - pruebas de lazo — Área 300 (Tratamiento),und,58,9,23451,0.3,3885
+STAP-INS-071,Instrumentación,Bandejas y canalización de señales — Área 600 (Servicios),m,888,231,5754,0.46,1683
+STAP-INS-072,Instrumentación,Válvula de control y actuador — Área 400 (Bombeo),und,37,18,205292,0.63,98063
+STAP-INS-073,Instrumentación,Cableado de instrumentación — Área 100 (Recepción),m,10867,1618,63137,0.28,10494
+STAP-INS-074,Instrumentación,Bandejas y canalización de señales — Área 500 (Inyección),m,2602,474,27477,0.35,4785
+STAP-INS-075,Instrumentación,Instalación de instrumento de campo (Tx) — Área 400 (Bombeo),und,124,25,184906,0.34,41241
+STAP-INS-076,Instrumentación,Cableado de instrumentación — Área 600 (Servicios),m,10243,4046,58692,0.58,22411
+STAP-INS-077,Instrumentación,Instalación de instrumento de campo (Tx) — Área 600 (Servicios),und,180,81,330455,0.63,141649
+STAP-INS-078,Instrumentación,Lazo de control - pruebas de lazo — Área 600 (Servicios),und,56,23,29224,0.54,12243
+STAP-INS-079,Instrumentación,Sistema de parada de emergencia (ESD) — Área 200 (Separación),und,10,2,74187,0.35,16646
+STAP-INS-080,Instrumentación,Lazo de control - pruebas de lazo — Área 200 (Separación),und,151,42,102216,0.46,28342
+STAP-INS-081,Instrumentación,Válvula de control y actuador — Área 100 (Recepción),und,9,2,57795,0.41,14491
+STAP-INS-082,Instrumentación,Válvula de control y actuador — Área 500 (Inyección),und,8,4,36045,0.6,18052
+STAP-INS-083,Instrumentación,Cableado de instrumentación — Área 600 (Servicios),m,9531,1762,45749,0.35,8184
+STAP-INS-084,Instrumentación,Cableado de instrumentación — Área 100 (Recepción),m,8979,993,63302,0.26,7008
+STAP-INS-085,Instrumentación,Lazo de control - pruebas de lazo — Área 600 (Servicios),und,81,9,46377,0.28,5474
+STAP-INS-086,Instrumentación,Válvula de control y actuador — Área 300 (Tratamiento),und,16,7,99802,0.59,44849
+STAP-INS-087,Instrumentación,Bandejas y canalización de señales — Área 300 (Tratamiento),m,3287,790,18013,0.32,4778
+STAP-INS-088,Instrumentación,Instalación de instrumento de campo (Tx) — Área 600 (Servicios),und,81,20,93286,0.43,22907
+STAP-INS-089,Instrumentación,Lazo de control - pruebas de lazo — Área 100 (Recepción),und,121,30,78740,0.39,19351
+STAP-INS-090,Instrumentación,Lazo de control - pruebas de lazo — Área 500 (Inyección),und,120,53,41334,0.49,18031
+STAP-INS-091,Instrumentación,Válvula de control y actuador — Área 600 (Servicios),und,13,1,59787,0.23,5192
+STAP-INS-092,Instrumentación,Cableado de instrumentación — Área 600 (Servicios),m,6171,1214,30855,0.29,5815
+STAP-INS-093,Instrumentación,Sistema de parada de emergencia (ESD) — Área 500 (Inyección),und,2,0,24687,0.11,0
+STAP-INS-094,Instrumentación,Sistema de parada de emergencia (ESD) — Área 400 (Bombeo),und,3,1,35990,0.51,12299
+STAP-INS-095,Instrumentación,Instalación de instrumento de campo (Tx) — Área 200 (Separación),und,38,11,61766,0.49,17772
+STAP-INS-096,Instrumentación,Cableado de instrumentación — Área 600 (Servicios),m,11080,4613,79000,0.53,35106
+STAP-INS-097,Instrumentación,Bandejas y canalización de señales — Área 500 (Inyección),m,2059,975,20899,0.64,9633
+STAP-INS-098,Instrumentación,Válvula de control y actuador — Área 300 (Tratamiento),und,40,19,373628,0.54,179509
+STAP-INS-099,Instrumentación,Sistema de parada de emergencia (ESD) — Área 200 (Separación),und,2,0,12674,0.05,0
+STAP-INS-100,Instrumentación,Sistema de parada de emergencia (ESD) — Área 100 (Recepción),und,10,1,97281,0.28,10538
+STAP-INS-101,Instrumentación,Instalación de instrumento de campo (Tx) — Área 600 (Servicios),und,39,8,36676,0.3,7922
+STAP-INS-102,Instrumentación,Bandejas y canalización de señales — Área 400 (Bombeo),m,2957,1018,22591,0.54,7586
+STAP-INS-103,Instrumentación,Cableado de instrumentación — Área 400 (Bombeo),m,13352,2468,90927,0.23,16683
+STAP-INS-104,Instrumentación,Cableado de instrumentación — Área 300 (Tratamiento),m,12008,4958,67245,0.59,29373
+STAP-INS-105,Instrumentación,Válvula de control y actuador — Área 200 (Separación),und,39,15,214339,0.43,79237
+STAP-INS-106,Instrumentación,Lazo de control - pruebas de lazo — Área 200 (Separación),und,189,77,59892,0.52,25352
+STAP-INS-107,Instrumentación,Válvula de control y actuador — Área 400 (Bombeo),und,35,10,212181,0.35,61902
+STAP-INS-108,Instrumentación,Sistema de parada de emergencia (ESD) — Área 300 (Tratamiento),und,7,3,59329,0.58,28362
+STAP-INS-109,Instrumentación,Lazo de control - pruebas de lazo — Área 100 (Recepción),und,153,65,70337,0.49,28466
+STAP-INS-110,Instrumentación,Cableado de instrumentación — Área 500 (Inyección),m,9526,4430,66015,0.53,29261
+STAP-INS-111,Instrumentación,Instalación de instrumento de campo (Tx) — Área 200 (Separación),und,57,13,87994,0.35,19877
+STAP-INS-112,Instrumentación,Válvula de control y actuador — Área 500 (Inyección),und,30,7,173298,0.39,42582
+STAP-INS-113,Instrumentación,Válvula de control y actuador — Área 500 (Inyección),und,28,8,202497,0.39,62835
+STAP-INS-114,Instrumentación,Lazo de control - pruebas de lazo — Área 100 (Recepción),und,65,17,51030,0.4,14613
+STAP-ELE-001,Eléctrica,Iluminación y tomas industriales — Área 100 (Recepción),und,243,181,34358,0.93,24944
+STAP-ELE-002,Eléctrica,Sistema de puesta a tierra — Área 600 (Servicios),m,2921,1169,13378,0.49,5267
+STAP-ELE-003,Eléctrica,Iluminación y tomas industriales — Área 500 (Inyección),und,47,21,2860,0.58,1344
+STAP-ELE-004,Eléctrica,Sistema de puesta a tierra — Área 600 (Servicios),m,2897,1965,17411,0.75,12888
+STAP-ELE-005,Eléctrica,Cableado de potencia — Área 300 (Tratamiento),m,13935,7458,108972,0.7,57081
+STAP-ELE-006,Eléctrica,Cableado de potencia — Área 400 (Bombeo),m,16394,11190,142464,0.87,95821
+STAP-ELE-007,Eléctrica,Cableado de control — Área 200 (Separación),m,10108,10614,51248,0.68,28912
+STAP-ELE-008,Eléctrica,Cableado de control — Área 600 (Servicios),m,10354,6109,41416,0.65,25234
+STAP-ELE-009,Eléctrica,Sistema de puesta a tierra — Área 500 (Inyección),m,5101,1534,38819,0.37,11267
+STAP-ELE-010,Eléctrica,Montaje de subestación / CCM — Área 100 (Recepción),und,2,1,353586,0.59,181821
+STAP-ELE-011,Eléctrica,Montaje de subestación / CCM — Área 200 (Separación),und,1,0,165871,0.1,0
+STAP-ELE-012,Eléctrica,Iluminación y tomas industriales — Área 200 (Separación),und,77,42,6413,0.64,3953
+STAP-ELE-013,Eléctrica,Cableado de potencia — Área 100 (Recepción),m,6335,3054,64617,0.54,32038
+STAP-ELE-014,Eléctrica,Cableado de control — Área 500 (Inyección),m,9835,7042,35603,0.89,24833
+STAP-ELE-015,Eléctrica,Montaje de subestación / CCM — Área 600 (Servicios),und,2,1,154880,0.61,77043
+STAP-ELE-016,Eléctrica,Cableado de potencia — Área 300 (Tratamiento),m,12700,8553,151892,0.73,96895
+STAP-ELE-017,Eléctrica,Sistema de puesta a tierra — Área 600 (Servicios),m,3709,1412,23923,0.48,9192
+STAP-ELE-018,Eléctrica,Iluminación y tomas industriales — Área 300 (Tratamiento),und,177,56,16875,0.36,5701
+STAP-ELE-019,Eléctrica,Sistema de puesta a tierra — Área 200 (Separación),m,4433,2614,23406,0.7,13648
+STAP-ELE-019,Eléctrica,Montaje de tablero eléctrico — Área 200 (Separación),und,15,10,198757,0.77,128302
+STAP-ELE-021,Eléctrica,Iluminación y tomas industriales — Área 500 (Inyección),und,42,30,3363,0.77,2395
+STAP-ELE-022,Eléctrica,Montaje de subestación / CCM — Área 200 (Separación),und,2,1,360675,0.66,180566
+STAP-ELE-023,Eléctrica,Iluminación y tomas industriales — Área 500 (Inyección),und,99,47,6487,0.62,3460
+STAP-ELE-024,Eléctrica,Bandeja portacables — Área 100 (Recepción),m,1075,371,11750,0.39,4608
+STAP-ELE-025,Eléctrica,Montaje de tablero eléctrico — Área 600 (Servicios),und,20,12,165044,0.77,107438
+STAP-ELE-026,Eléctrica,Montaje de tablero eléctrico — Área 400 (Bombeo),und,20,9,226684,0.53,108302
+STAP-ELE-027,Eléctrica,Sistema de puesta a tierra — Área 600 (Servicios),m,1007,356,5659,0.43,1958
+STAP-ELE-028,Eléctrica,Bandeja portacables — Área 500 (Inyección),m,4655,1753,40219,0.46,16360
+STAP-ELE-029,Eléctrica,Sistema de puesta a tierra — Área 600 (Servicios),m,4112,2346,19368,0.66,12456
+STAP-ELE-030,Eléctrica,Bandeja portacables — Área 100 (Recepción),m,3903,1651,30287,0.55,14448
+STAP-ELE-031,Eléctrica,Montaje de tablero eléctrico — Área 600 (Servicios),und,19,6,146914,0.4,43786
+STAP-ELE-032,Eléctrica,Iluminación y tomas industriales — Área 500 (Inyección),und,204,158,13080,0.86,10999
+STAP-ELE-033,Eléctrica,Iluminación y tomas industriales — Área 300 (Tratamiento),und,154,89,22392,0.78,13808
+STAP-ELE-034,Eléctrica,Montaje de subestación / CCM — Área 300 (Tratamiento),und,2,2,332694,1.0,320327
+STAP-ELE-035,Eléctrica,Sistema de puesta a tierra — Área 200 (Separación),m,5829,3866,32876,0.79,20748
+STAP-ELE-036,Eléctrica,Cableado de control — Área 500 (Inyección),m,2578,1082,17969,0.47,8072
+STAP-ELE-037,Eléctrica,Montaje de subestación / CCM — Área 300 (Tratamiento),und,1,0,131688,0.05,0
+STAP-ELE-038,Eléctrica,Cableado de control — Área 600 (Servicios),m,4323,3008,17378,0.85,12715
+STAP-ELE-039,Eléctrica,Montaje de tablero eléctrico — Área 600 (Servicios),und,8,3,88701,0.53,35724
+STAP-ELE-040,Eléctrica,Bandeja portacables — Área 300 (Tratamiento),m,1154,396,8736,0.41,2856
+STAP-ELE-041,Eléctrica,Bandeja portacables — Área 200 (Separación),m,4306,3103,27688,0.92,22615
+STAP-ELE-042,Eléctrica,Iluminación y tomas industriales — Área 300 (Tratamiento),und,168,86,15631,0.65,7988
+STAP-ELE-043,Eléctrica,Montaje de subestación / CCM — Área 100 (Recepción),und,2,1,247703,0.63,121885
+STAP-ELE-044,Eléctrica,Montaje de subestación / CCM — Área 400 (Bombeo),und,2,1,213635,0.65,104872
+STAP-ELE-045,Eléctrica,Iluminación y tomas industriales — Área 400 (Bombeo),und,97,40,9712,0.49,4078
+STAP-ELE-046,Eléctrica,Iluminación y tomas industriales — Área 200 (Separación),und,129,89,16724,0.81,11051
+STAP-ELE-047,Eléctrica,Cableado de potencia — Área 400 (Bombeo),m,13144,9327,116719,0.88,80642
+STAP-ELE-048,Eléctrica,Sistema de puesta a tierra — Área 300 (Tratamiento),m,6408,2156,30246,0.43,10218
+STAP-ELE-049,Eléctrica,Sistema de puesta a tierra — Área 300 (Tratamiento),m,3786,1321,26048,0.42,10219
+STAP-ELE-050,Eléctrica,Cableado de potencia — Área 500 (Inyección),m,11112,7628,106120,0.75,70038
+STAP-ELE-051,Eléctrica,Montaje de subestación / CCM — Área 300 (Tratamiento),und,1,0,138313,0.05,0
+STAP-ELE-052,Eléctrica,Iluminación y tomas industriales — Área 300 (Tratamiento),und,180,122,26051,0.81,19465
+STAP-ELE-053,Eléctrica,Cableado de control — Área 100 (Recepción),m,5848,2289,38714,0.48,16203
+STAP-ELE-054,Eléctrica,Sistema de puesta a tierra — Área 100 (Recepción),m,6211,4756,35403,0.93,27924
+STAP-ELE-055,Eléctrica,Cableado de control — Área 300 (Tratamiento),m,3602,1139,18190,0.48,6128
+STAP-ELE-056,Eléctrica,Sistema de puesta a tierra — Área 600 (Servicios),m,4044,1513,29643,0.5,11569
+STAP-ELE-057,Eléctrica,Montaje de tablero eléctrico — Área 600 (Servicios),und,15,6,129541,0.57,55402
+STAP-ELE-058,Eléctrica,Bandeja portacables — Área 400 (Bombeo),m,3218,2205,36299,0.76,26943
+STAP-ELE-059,Eléctrica,Iluminación y tomas industriales — Área 400 (Bombeo),und,171,130,15537,0.91,11714
+STAP-ELE-060,Eléctrica,Bandeja portacables — Área 200 (Separación),m,1860,1217,20497,0.71,13401
+STAP-ELE-061,Eléctrica,Bandeja portacables — Área 200 (Separación),m,3850,1160,23446,0.48,7938
+STAP-ELE-062,Eléctrica,Montaje de subestación / CCM — Área 400 (Bombeo),und,1,0,84719,0.12,0
+STAP-ELE-063,Eléctrica,Montaje de tablero eléctrico — Área 400 (Bombeo),und,15,7,150883,0.52,77284
+STAP-ELE-064,Eléctrica,Iluminación y tomas industriales — Área 500 (Inyección),und,53,32,3579,0.65,2305
+STAP-ELE-065,Eléctrica,Montaje de tablero eléctrico — Área 400 (Bombeo),und,17,12,197702,0.75,136900
+STAP-ELE-066,Eléctrica,Montaje de tablero eléctrico — Área 100 (Recepción),und,18,9,124624,0.61,60246
+STAP-ELE-067,Eléctrica,Montaje de tablero eléctrico — Área 500 (Inyección),und,15,9,146236,0.8,83417
+STAP-ELE-068,Eléctrica,Bandeja portacables — Área 600 (Servicios),m,877,519,8384,0.76,4784
+STAP-ELE-069,Eléctrica,Cableado de control — Área 600 (Servicios),m,8081,4414,44446,0.71,24832
+STAP-ELE-070,Eléctrica,Montaje de subestación / CCM — Área 400 (Bombeo),und,2,1,314122,0.58,150442
+STAP-ELE-071,Eléctrica,Cableado de potencia — Área 100 (Recepción),m,3475,2248,33846,0.74,21406
+STAP-ELE-072,Eléctrica,Sistema de puesta a tierra — Área 100 (Recepción),m,1126,368,4729,0.44,1498
+STAP-ELE-073,Eléctrica,Bandeja portacables — Área 100 (Recepción),m,2566,1781,22991,0.84,15108
+STAP-ELE-074,Eléctrica,Bandeja portacables — Área 400 (Bombeo),m,2437,932,23883,0.48,8696
+STAP-ELE-075,Eléctrica,Bandeja portacables — Área 600 (Servicios),m,1248,774,11082,0.81,7125
+STAP-ELE-076,Eléctrica,Montaje de tablero eléctrico — Área 100 (Recepción),und,7,4,100062,0.73,59368
+STAP-ELE-077,Eléctrica,Bandeja portacables — Área 200 (Separación),m,1992,1189,15060,0.74,8858
+STAP-ELE-078,Eléctrica,Sistema de puesta a tierra — Área 500 (Inyección),m,1049,646,4752,0.67,2839
+STAP-ELE-079,Eléctrica,Montaje de subestación / CCM — Área 400 (Bombeo),und,2,1,170838,0.67,84465
+STAP-ELE-080,Eléctrica,Montaje de subestación / CCM — Área 500 (Inyección),und,2,1,269300,0.68,142492
+STAP-ELE-081,Eléctrica,Montaje de tablero eléctrico — Área 200 (Separación),und,4,2,32380,0.63,18160
+STAP-ELE-082,Eléctrica,Bandeja portacables — Área 500 (Inyección),m,3914,2273,40392,0.76,26026
+STAP-ELE-083,Eléctrica,Montaje de subestación / CCM — Área 100 (Recepción),und,2,1,195060,0.69,93816
+STAP-ELE-084,Eléctrica,Cableado de control — Área 400 (Bombeo),m,10295,7667,60946,0.79,43536
+STAP-ELE-085,Eléctrica,Iluminación y tomas industriales — Área 200 (Separación),und,290,183,36244,0.73,25855
+STAP-ELE-086,Eléctrica,Montaje de subestación / CCM — Área 600 (Servicios),und,2,1,194694,0.66,102838
+STAP-ELE-087,Eléctrica,Sistema de puesta a tierra — Área 300 (Tratamiento),m,6438,3034,25816,0.57,12280
+STAP-ELE-088,Eléctrica,Cableado de potencia — Área 500 (Inyección),m,10733,8308,88869,0.85,70946
+STAP-ELE-089,Eléctrica,Bandeja portacables — Área 200 (Separación),m,3450,2194,20458,0.8,14627
+STAP-ELE-090,Eléctrica,Bandeja portacables — Área 600 (Servicios),m,4397,2777,32494,0.82,19832
+STAP-ELE-091,Eléctrica,Cableado de control — Área 400 (Bombeo),m,11200,5749,64624,0.6,33331
+STAP-ELE-092,Eléctrica,Iluminación y tomas industriales — Área 200 (Separación),und,267,120,20479,0.59,9833
+STAP-ELE-093,Eléctrica,Cableado de potencia — Área 600 (Servicios),m,4951,3839,58273,0.96,46785
+STAP-ELE-094,Eléctrica,Cableado de potencia — Área 100 (Recepción),m,2802,1507,25050,0.64,14211
+STAP-ELE-095,Eléctrica,Bandeja portacables — Área 600 (Servicios),m,4872,2191,32935,0.51,14886
+STAP-ELE-096,Eléctrica,Sistema de puesta a tierra — Área 600 (Servicios),m,2344,1342,13408,0.63,7384
+STAP-ELE-097,Eléctrica,Iluminación y tomas industriales — Área 500 (Inyección),und,190,94,25414,0.61,12780
+STAP-ELE-098,Eléctrica,Bandeja portacables — Área 600 (Servicios),m,2102,665,13789,0.41,4654
+STAP-ELE-099,Eléctrica,Cableado de control — Área 100 (Recepción),m,9957,7928,38036,0.87,32147
+STAP-ELE-100,Eléctrica,Cableado de control — Área 400 (Bombeo),m,2999,2234,21173,0.85,15298
+STAP-ELE-101,Eléctrica,Cableado de control — Área 400 (Bombeo),m,5720,3255,35064,0.65,19697
+STAP-ELE-102,Eléctrica,Iluminación y tomas industriales — Área 100 (Recepción),und,257,105,18509,0.55,8016
+STAP-ELE-103,Eléctrica,Iluminación y tomas industriales — Área 400 (Bombeo),und,108,53,6613,0.67,3107
+STAP-ELE-104,Eléctrica,Montaje de subestación / CCM — Área 300 (Tratamiento),und,1,0,168132,0.09,0
+STAP-ELE-105,Eléctrica,Iluminación y tomas industriales — Área 300 (Tratamiento),und,118,44,10240,0.44,3604
+STAP-ELE-106,Eléctrica,Montaje de subestación / CCM — Área 600 (Servicios),und,1,0,92271,0.17,0
+STAP-ELE-107,Eléctrica,Cableado de control — Área 300 (Tratamiento),m,7914,5864,56585,0.93,46987
+STAP-ELE-108,Eléctrica,Montaje de tablero eléctrico — Área 200 (Separación),und,7,3,77630,0.52,34645
+STAP-ELE-109,Eléctrica,Iluminación y tomas industriales — Área 200 (Separación),und,87,64,6625,0.9,5525
+STAP-ELE-110,Eléctrica,Iluminación y tomas industriales — Área 600 (Servicios),und,134,81,13167,0.78,7565
+STAP-ELE-111,Eléctrica,Montaje de tablero eléctrico — Área 300 (Tratamiento),und,6,5,34147,0.94,30901
+STAP-ELE-112,Eléctrica,Cableado de potencia — Área 600 (Servicios),m,12772,3889,209972,0.48,69683
+STAP-ELE-113,Eléctrica,Sistema de puesta a tierra — Área 400 (Bombeo),m,5311,1869,21722,0.43,7819
+STAP-ELE-114,Eléctrica,Montaje de subestación / CCM — Área 400 (Bombeo),und,1,1,154978,1.0,148025
+STAP-ROT-001,Rotativa,Montaje de motor eléctrico asociado — Área 600 (Servicios),und,6,1,40298,0.34,6726
+STAP-ROT-002,Rotativa,Montaje de bomba centrífuga de transferencia — Área 300 (Tratamiento),und,4,1,93938,0.41,22682
+STAP-ROT-003,Rotativa,Montaje de motor eléctrico asociado — Área 500 (Inyección),und,8,2,25023,0.38,6269
+STAP-ROT-004,Rotativa,Montaje de compresor — Área 300 (Tratamiento),und,2,1,179182,0.63,91205
+STAP-ROT-005,Rotativa,Montaje de compresor — Área 600 (Servicios),und,2,0,243515,0.1,0
+STAP-ROT-006,Rotativa,Montaje de motor eléctrico asociado — Área 600 (Servicios),und,8,0,62474,0.16,0
+STAP-ROT-007,Rotativa,Montaje de bomba centrífuga de transferencia — Área 600 (Servicios),und,4,2,127022,0.61,71824
+STAP-ROT-008,Rotativa,Montaje de bomba centrífuga de transferencia — Área 600 (Servicios),und,1,0,40570,0.15,0
+STAP-ROT-009,Rotativa,Montaje de bomba centrífuga de transferencia — Área 500 (Inyección),und,4,2,122811,0.59,57942
+STAP-ROT-010,Rotativa,Montaje de bomba de inyección — Área 400 (Bombeo),und,3,1,117836,0.43,43017
+STAP-ROT-011,Rotativa,Montaje de bomba centrífuga de transferencia — Área 100 (Recepción),und,3,1,94514,0.45,33790
+STAP-ROT-012,Rotativa,Montaje de compresor — Área 500 (Inyección),und,1,0,83181,0.09,0
+STAP-ROT-013,Rotativa,Pruebas y puesta en marcha de rotativos — Área 200 (Separación),und,2,0,8136,0.18,0
+STAP-ROT-014,Rotativa,Montaje de motor eléctrico asociado — Área 200 (Separación),und,6,3,36736,0.68,20448
+STAP-ROT-015,Rotativa,Montaje de compresor — Área 400 (Bombeo),und,1,0,0,0.08,0
+STAP-ROT-016,Rotativa,Montaje de motor eléctrico asociado — Área 600 (Servicios),und,3,1,123429,0.43,7168
+STAP-ROT-017,Rotativa,Montaje de motor eléctrico asociado — Área 600 (Servicios),und,8,3,43146,0.57,18171
+STAP-ROT-018,Rotativa,Montaje de compresor — Área 500 (Inyección),und,2,0,188610,0.08,0
+STAP-ROT-019,Rotativa,Alineación láser de equipo rotativo — Área 500 (Inyección),und,8,4,9425,0.62,4490
+STAP-ROT-020,Rotativa,Montaje de compresor — Área 100 (Recepción),und,1,0,84250,0.16,0
+STAP-ROT-021,Rotativa,Montaje de bomba de inyección — Área 200 (Separación),und,2,0,84974,0.18,0
+STAP-ROT-022,Rotativa,Montaje de motor eléctrico asociado — Área 500 (Inyección),und,6,1,45871,0.23,7686
+STAP-ROT-023,Rotativa,Montaje de compresor — Área 300 (Tratamiento),und,2,0,262402,0.16,0
+STAP-ROT-024,Rotativa,Montaje de motor eléctrico asociado — Área 400 (Bombeo),und,4,1,16780,0.29,4393
+STAP-ROT-025,Rotativa,Montaje de bomba de inyección — Área 400 (Bombeo),und,3,1,96853,0.53,34385
+STAP-ROT-026,Rotativa,Alineación láser de equipo rotativo — Área 300 (Tratamiento),und,2,0,4764,0.16,0
+STAP-ROT-027,Rotativa,Alineación láser de equipo rotativo — Área 400 (Bombeo),und,4,0,7277,0.13,0
+STAP-ROT-028,Rotativa,Montaje de compresor — Área 500 (Inyección),und,1,1,84510,1.0,80101
+STAP-ROT-029,Rotativa,Alineación láser de equipo rotativo — Área 600 (Servicios),und,6,3,16066,0.59,8295
+STAP-ROT-030,Rotativa,Montaje de bomba de inyección — Área 300 (Tratamiento),und,2,1,51030,0.61,25128
+STAP-ROT-031,Rotativa,Pruebas y puesta en marcha de rotativos — Área 600 (Servicios),und,9,4,29213,0.63,14721
+STAP-ROT-032,Rotativa,Alineación láser de equipo rotativo — Área 400 (Bombeo),und,8,0,9853,0.07,0
+STAP-ROT-033,Rotativa,Montaje de compresor — Área 300 (Tratamiento),und,2,0,222036,0.18,0
+STAP-ROT-034,Rotativa,Montaje de motor eléctrico asociado — Área 100 (Recepción),und,3,0,12379,0.18,0
+STAP-ROT-035,Rotativa,Montaje de bomba centrífuga de transferencia — Área 300 (Tratamiento),und,3,2,85593,0.78,55416
+STAP-ROT-036,Rotativa,Montaje de compresor — Área 500 (Inyección),und,1,0,140066,0.19,0
+STAP-ROT-037,Rotativa,Montaje de bomba centrífuga de transferencia — Área 600 (Servicios),und,4,2,158513,0.69,87140
+STAP-ROT-038,Rotativa,Montaje de bomba centrífuga de transferencia — Área 200 (Separación),und,3,1,72593,0.46,27399
+STAP-ROT-039,Rotativa,Montaje de motor eléctrico asociado — Área 400 (Bombeo),und,3,1,20769,0.51,6945
+STAP-ROT-040,Rotativa,Montaje de motor eléctrico asociado — Área 400 (Bombeo),und,7,1,34217,0.29,4708
+STAP-ROT-041,Rotativa,Montaje de compresor — Área 600 (Servicios),und,2,1,276731,0.7,153687
+STAP-ROT-042,Rotativa,Montaje de bomba de inyección — Área 400 (Bombeo),und,3,1,127264,0.45,43180
+STAP-ROT-043,Rotativa,Montaje de motor eléctrico asociado — Área 300 (Tratamiento),und,6,3,20647,0.64,11604
+STAP-ROT-044,Rotativa,Montaje de motor eléctrico asociado — Área 100 (Recepción),und,3,0,23212,0.12,0
+STAP-ROT-045,Rotativa,Pruebas y puesta en marcha de rotativos — Área 600 (Servicios),und,2,0,7423,0.15,0
+STAP-ROT-046,Rotativa,Montaje de bomba de inyección — Área 200 (Separación),und,3,1,105040,0.52,33594
+STAP-ROT-047,Rotativa,Pruebas y puesta en marcha de rotativos — Área 600 (Servicios),und,6,0,21291,0.13,0
+STAP-ROT-048,Rotativa,Montaje de bomba de inyección — Área 200 (Separación),und,1,0,29871,0.08,0
+STAP-ROT-049,Rotativa,Pruebas y puesta en marcha de rotativos — Área 100 (Recepción),und,3,1,11475,0.48,3794
+STAP-ROT-050,Rotativa,Montaje de motor eléctrico asociado — Área 200 (Separación),und,8,1,59904,0.31,8150
+STAP-ROT-051,Rotativa,Montaje de motor eléctrico asociado — Área 300 (Tratamiento),und,8,1,48333,0.17,6272
+STAP-ROT-052,Rotativa,Montaje de motor eléctrico asociado — Área 500 (Inyección),und,3,1,20718,0.44,7607
+STAP-ROT-053,Rotativa,Pruebas y puesta en marcha de rotativos — Área 200 (Separación),und,6,3,18688,0.69,10174
+STAP-ROT-054,Rotativa,Montaje de compresor — Área 500 (Inyección),und,1,0,97200,0.05,0
+STAP-ROT-055,Rotativa,Montaje de bomba centrífuga de transferencia — Área 500 (Inyección),und,3,1,62717,0.47,21802
+STAP-ROT-056,Rotativa,Montaje de bomba centrífuga de transferencia — Área 300 (Tratamiento),und,1,0,39725,0.05,0
+STAP-ROT-057,Rotativa,Montaje de bomba de inyección — Área 200 (Separación),und,1,0,35629,0.12,0
+STAP-ROT-058,Rotativa,Alineación láser de equipo rotativo — Área 400 (Bombeo),und,4,2,8173,0.66,4071
+STAP-ROT-059,Rotativa,Pruebas y puesta en marcha de rotativos — Área 100 (Recepción),und,10,5,30853,0.56,15602
+STAP-ROT-060,Rotativa,Montaje de bomba centrífuga de transferencia — Área 200 (Separación),und,4,0,91677,0.12,0
+STAP-ROT-061,Rotativa,Montaje de compresor — Área 500 (Inyección),und,2,1,292976,0.59,159407
+STAP-ROT-062,Rotativa,Pruebas y puesta en marcha de rotativos — Área 200 (Separación),und,5,1,10809,0.39,2177
+STAP-ROT-063,Rotativa,Montaje de compresor — Área 200 (Separación),und,1,0,86059,0.18,0
+STAP-ROT-064,Rotativa,Montaje de bomba centrífuga de transferencia — Área 100 (Recepción),und,3,0,90459,0.04,0
+STAP-ROT-065,Rotativa,Montaje de motor eléctrico asociado — Área 500 (Inyección),und,6,2,39905,0.39,12984
+STAP-ROT-066,Rotativa,Montaje de bomba centrífuga de transferencia — Área 500 (Inyección),und,4,1,117509,0.39,28177
+STAP-ROT-067,Rotativa,Alineación láser de equipo rotativo — Área 100 (Recepción),und,3,1,7061,0.46,2587
+STAP-ROT-068,Rotativa,Montaje de compresor — Área 300 (Tratamiento),und,2,1,242971,0.65,118998
+STAP-ROT-069,Rotativa,Montaje de bomba centrífuga de transferencia — Área 400 (Bombeo),und,4,1,134618,0.36,34449
+STAP-ROT-070,Rotativa,Alineación láser de equipo rotativo — Área 500 (Inyección),und,7,3,19319,0.56,8982
+STAP-ROT-071,Rotativa,Alineación láser de equipo rotativo — Área 200 (Separación),und,3,0,5207,0.07,0
+STAP-ROT-072,Rotativa,Montaje de bomba centrífuga de transferencia — Área 200 (Separación),und,4,1,96758,0.42,26242
+STAP-ROT-073,Rotativa,Montaje de bomba centrífuga de transferencia — Área 200 (Separación),und,1,0,30492,0.15,0
+STAP-ROT-074,Rotativa,Montaje de motor eléctrico asociado — Área 200 (Separación),und,5,2,34579,0.55,13338
+STAP-ROT-075,Rotativa,Pruebas y puesta en marcha de rotativos — Área 100 (Recepción),und,6,3,20740,0.64,9823
+STAP-ROT-076,Rotativa,Montaje de motor eléctrico asociado — Área 200 (Separación),und,2,0,6112,0.12,0
